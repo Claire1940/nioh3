@@ -1,0 +1,192 @@
+{
+  "timestamp": "2026-01-18T13:57:30.282Z",
+  "totalFilesProcessed": 67,
+  "totalFixesApplied": 101,
+  "filesModified": [
+    {
+      "file": "commander\\deck-list.mdx",
+      "fixes": 2
+    },
+    {
+      "file": "commander\\decks.mdx",
+      "fixes": 3
+    },
+    {
+      "file": "commander\\legendary-creatures.mdx",
+      "fixes": 2
+    },
+    {
+      "file": "commander\\overview.mdx",
+      "fixes": 2
+    },
+    {
+      "file": "commander\\precons.mdx",
+      "fixes": 2
+    },
+    {
+      "file": "commander\\tech.mdx",
+      "fixes": 1
+    },
+    {
+      "file": "community\\moxfield.mdx",
+      "fixes": 4
+    },
+    {
+      "file": "community\\mtg-wiki.mdx",
+      "fixes": 4
+    },
+    {
+      "file": "community\\mtggoldfish.mdx",
+      "fixes": 1
+    },
+    {
+      "file": "community\\mythic-spoilers.mdx",
+      "fixes": 2
+    },
+    {
+      "file": "community\\scryfall.mdx",
+      "fixes": 2
+    },
+    {
+      "file": "community\\wiki.mdx",
+      "fixes": 4
+    },
+    {
+      "file": "content\\card-gallery.mdx",
+      "fixes": 2
+    },
+    {
+      "file": "content\\card-list.mdx",
+      "fixes": 2
+    },
+    {
+      "file": "content\\full-card-list.mdx",
+      "fixes": 3
+    },
+    {
+      "file": "content\\leaks.mdx",
+      "fixes": 1
+    },
+    {
+      "file": "content\\spoilers.mdx",
+      "fixes": 3
+    },
+    {
+      "file": "limited\\draft-guide.mdx",
+      "fixes": 2
+    },
+    {
+      "file": "limited\\draft.mdx",
+      "fixes": 2
+    },
+    {
+      "file": "limited\\draftsim.mdx",
+      "fixes": 2
+    },
+    {
+      "file": "limited\\overview.mdx",
+      "fixes": 2
+    },
+    {
+      "file": "limited\\set-review.mdx",
+      "fixes": 2
+    },
+    {
+      "file": "mechanics\\boggart.mdx",
+      "fixes": 2
+    },
+    {
+      "file": "mechanics\\dragons.mdx",
+      "fixes": 2
+    },
+    {
+      "file": "mechanics\\faeries.mdx",
+      "fixes": 2
+    },
+    {
+      "file": "mechanics\\goblins.mdx",
+      "fixes": 2
+    },
+    {
+      "file": "mechanics\\keywords.mdx",
+      "fixes": 2
+    },
+    {
+      "file": "mechanics\\persist-creatures.mdx",
+      "fixes": 3
+    },
+    {
+      "file": "pricing\\cardmarket.mdx",
+      "fixes": 2
+    },
+    {
+      "file": "pricing\\collecting.mdx",
+      "fixes": 4
+    },
+    {
+      "file": "pricing\\msrp.mdx",
+      "fixes": 2
+    },
+    {
+      "file": "pricing\\set-price.mdx",
+      "fixes": 1
+    },
+    {
+      "file": "products\\booster-box.mdx",
+      "fixes": 2
+    },
+    {
+      "file": "products\\box.mdx",
+      "fixes": 2
+    },
+    {
+      "file": "products\\bundle.mdx",
+      "fixes": 4
+    },
+    {
+      "file": "products\\collector-booster-box.mdx",
+      "fixes": 2
+    },
+    {
+      "file": "products\\collector-booster.mdx",
+      "fixes": 2
+    },
+    {
+      "file": "products\\draft-night.mdx",
+      "fixes": 1
+    },
+    {
+      "file": "products\\play-booster.mdx",
+      "fixes": 2
+    },
+    {
+      "file": "products\\precon.mdx",
+      "fixes": 2
+    },
+    {
+      "file": "products\\prerelease.mdx",
+      "fixes": 2
+    },
+    {
+      "file": "release\\release-date.mdx",
+      "fixes": 2
+    },
+    {
+      "file": "release\\release-info.mdx",
+      "fixes": 1
+    },
+    {
+      "file": "release\\schedule.mdx",
+      "fixes": 2
+    },
+    {
+      "file": "release\\when-come-out.mdx",
+      "fixes": 3
+    },
+    {
+      "file": "release\\when-release.mdx",
+      "fixes": 2
+    }
+  ],
+  "errors": []
+}

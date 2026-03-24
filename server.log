@@ -1,0 +1,42 @@
+
+> starrupture-org@0.1.0 dev
+> next dev -H 0.0.0.0
+
+   ▲ Next.js 15.5.7
+   - Local:        http://localhost:3000
+   - Network:      http://0.0.0.0:3000
+   - Environments: .env.local
+   - Experiments (use with caution):
+     · optimizePackageImports
+
+ ✓ Starting...
+ ✓ Ready in 4.3s
+ ✓ Compiled /middleware in 446ms (146 modules)
+ ○ Compiling /[locale] ...
+ ✓ Compil   Reload env: .env.local
+   Reload env: .env.local
+   Reload env: .env.local
+   Reload env: .env.local
+   Reload env: .env.local
+   Reload env: .env.local
+   Reload env: .env.local
+   Reload env: .env.local
+T /guides 200 in 3557ms
+ ○ Compiling /[locale]/classes ...
+ ✓ Compiled /[locale]/classes in 564ms (894 modules)
+ GET /classes 200 in 2952ms
+ ○ Compiling /[locale]/combat ...
+ ✓ Compiled /[locale]/combat in 613ms (896 modules)
+ GET /combat 200 in 2725ms
+ ○ Compiling /[locale]/privacy ...
+ ✓ Compiled /[locale]/privacy in 690ms (903 modules)
+ GET /privacy 200 in 2302ms
+ ○ Compiling /[locale]/terms ...
+ ✓ Compiled /[locale]/terms in 667ms (910 modules)
+ GET /terms 200 in 2154ms
+ ✓ Compiled in 1070ms (326 modules)
+ ✓ Compiled in 467ms (326 modules)
+ ✓ Compiled in 372ms (326 modules)
+ ✓ Compiled in 517ms (326 modules)
+ ✓ Compiled in 507ms (326 modules)
+[?25h

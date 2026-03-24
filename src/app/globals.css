@@ -1,0 +1,183 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* Nioh 3 Dark Sengoku Theme - UI.md 配置 */
+    --background: 240 20% 5%;       /* #0B0B0E */
+    --foreground: 210 20% 95%;      /* #F3F4F6 */
+    --card: 240 25% 8%;             /* #141420 */
+    --card-foreground: 210 20% 95%;
+    --popover: 240 25% 8%;
+    --popover-foreground: 210 20% 95%;
+    --primary: 6 65% 51%;           /* #D13B2F */
+    --primary-foreground: 0 0% 100%;
+    --secondary: 42 48% 53%;        /* #C9A24A */
+    --secondary-foreground: 240 20% 5%;
+    --muted: 215 15% 65%;           /* #9AA3AF */
+    --muted-foreground: 215 15% 70%;
+    --accent: 6 65% 51%;            /* #D13B2F */
+    --accent-foreground: 0 0% 100%;
+    --destructive: 6 65% 51%;       /* #D13B2F */
+    --destructive-foreground: 0 0% 100%;
+    --border: 240 20% 18%;          /* #2A2A3A */
+    --input: 240 25% 8%;
+    --ring: 6 65% 51%;
+    --radius: 0.625rem;
+
+    /* Nioh 3 Theme Variables - UI.md */
+    --le-bg0: #0B0B0E;
+    --le-bg1: #11111A;
+    --le-surface1: #141420;
+    --le-surface2: #1A1A27;
+    --le-surface3: #2A2A3A;
+    --le-border: #2A2A3A;
+    --le-border-soft: #1A1A27;
+
+    --le-text-primary: #F3F4F6;
+    --le-text-secondary: #C7CBD1;
+    --le-text-muted: #9AA3AF;
+    --le-text-disabled: #6B7280;
+
+    --le-accent-primary: #D13B2F;
+    --le-accent-secondary: #C9A24A;
+    --le-accent-tertiary: #93C5FD;
+
+    --le-info: #93C5FD;
+    --le-success: #34D399;
+    --le-warning: #C9A24A;
+    --le-danger: #D13B2F;
+
+    --le-link: #93C5FD;
+    --le-focus-ring: #D13B2F;
+
+    /* Gradients & Effects */
+    --le-page-gradient: linear-gradient(180deg, #0B0B0E 0%, #11111A 100%);
+    --le-card-gradient: linear-gradient(135deg, rgba(209,59,47,0.12) 0%, rgba(201,162,74,0.08) 100%);
+    --le-surface-glow: radial-gradient(60% 60% at 30% 20%, rgba(209,59,47,0.18) 0%, rgba(0,0,0,0) 70%);
+    --le-shadow-sm: 0 6px 18px rgba(0,0,0,0.45);
+    --le-shadow-md: 0 10px 30px rgba(0,0,0,0.55);
+    --le-shadow-glow: 0 0 24px rgba(209,59,47,0.25);
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+    background: var(--le-page-gradient);
+    background-attachment: fixed;
+    min-height: 100vh;
+    color: var(--le-text-primary);
+    cursor: default;
+  }
+
+  /* Improved hover states for interactive elements */
+  button,
+  a,
+  [role="button"] {
+    transition: transform 0.12s ease-out, box-shadow 0.12s ease-out;
+    cursor: pointer;
+  }
+
+  button:hover,
+  a:hover,
+  [role="button"]:hover {
+    transform: translateY(-1px) scale(1.02);
+  }
+}
+
+/* Custom Cursor Effects - Nioh 3 UI.md 配置 */
+.cursor-dot,
+.cursor-ring {
+  position: fixed;
+  left: 0;
+  top: 0;
+  pointer-events: none;
+  z-index: 9999;
+  transform: translate(-50%, -50%);
+  opacity: 0;
+}
+
+.cursor-dot {
+  width: 6px;
+  height: 6px;
+  border-radius: 999px;
+  background: #F3F4F6;
+  opacity: 0.95;
+  transition: opacity 0.12s ease;
+}
+
+.cursor-ring {
+  width: 34px;
+  height: 34px;
+  border-radius: 999px;
+  border: 2px solid rgba(209, 59, 47, 0.75);
+  box-shadow: 0 0 18px rgba(209, 59, 47, 0.35);
+  opacity: 0.9;
+  transition:
+    width 120ms ease,
+    height 120ms ease,
+    opacity 120ms ease,
+    border-color 120ms ease,
+    box-shadow 120ms ease;
+}
+
+.cursor-ring.is-active {
+  width: 46px;
+  height: 46px;
+  border-color: rgba(209, 59, 47, 0.95);
+  box-shadow: 0 0 26px rgba(209, 59, 47, 0.55);
+}
+
+@media (hover: hover) and (pointer: fine) {
+  html, body {
+    cursor: none;
+  }
+  .cursor-dot,
+  .cursor-ring {
+    opacity: 1;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .cursor-ring {
+    display: none;
+  }
+}
+
+@layer utilities {
+  .bg-gradient-dark {
+    background: var(--le-page-gradient);
+  }
+}
+
+/* Fix prose strong/bold styling */
+@layer components {
+  .prose strong,
+  .prose b {
+    color: inherit;
+    font-weight: 700;
+  }
+
+  .prose-invert strong,
+  .prose-invert b {
+    color: #ffffff;
+    font-weight: 700;
+  }
+
+  /* Remove underlines from all prose content */
+  .prose *,
+  .prose-invert * {
+    text-decoration: none !important;
+  }
+
+  /* Only allow underlines on links when hovered */
+  .prose a:hover,
+  .prose-invert a:hover {
+    text-decoration: underline !important;
+  }
+}

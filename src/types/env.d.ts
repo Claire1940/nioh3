@@ -1,0 +1,20 @@
+declare namespace NodeJS {
+  interface ProcessEnv {
+    // Google Analytics & AdSense
+    NEXT_PUBLIC_CLARITY_ID?: string;
+    NEXT_PUBLIC_GA_ID?: string;
+    NEXT_PUBLIC_ADSENSE_ID?: string;
+    NEXT_PUBLIC_SITE_URL?: string;
+    NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION?: string;
+    NEXT_PUBLIC_AHREFS_KEY?: string;
+
+    // Adsterra 广告配置
+    NEXT_PUBLIC_ADSTERRA_NATIVE_BANNER_KEY?: string;
+    NEXT_PUBLIC_ADSTERRA_BANNER_300X250_KEY?: string;
+    NEXT_PUBLIC_ADSTERRA_BANNER_468X60_KEY?: string;
+    NEXT_PUBLIC_ADSTERRA_BANNER_728X90_KEY?: string;
+    NEXT_PUBLIC_ADSTERRA_BANNER_160X600_KEY?: string;
+    NEXT_PUBLIC_ADSTERRA_BANNER_320X50_KEY?: string;
+    NEXT_PUBLIC_ADSTERRA_SOCIAL_BAR_KEY?: string;
+  }
+}

@@ -1,0 +1,501 @@
+{
+  "timestamp": "2026-01-18T15:12:40.984Z",
+  "totalLinks": 20,
+  "checkedLinks": 20,
+  "workingLinks": 19,
+  "brokenLinks": 1,
+  "redirects": 0,
+  "errors": [
+    {
+      "url": "https://lorwyneclipsed.com",
+      "status": "error",
+      "error": "fetch failed",
+      "sources": [
+        {
+          "file": "mechanics\\persist-creatures.mdx",
+          "title": "Persist in Lorwyn Eclipsed 2026: Best Persist Creatures Listed"
+        }
+      ]
+    }
+  ],
+  "linkDetails": {
+    "https://www.youtube.com/embed/8Wo9WxQtdTA": {
+      "status": "working",
+      "statusCode": 200,
+      "finalUrl": "https://www.youtube.com/embed/8Wo9WxQtdTA",
+      "sources": [
+        {
+          "file": "commander\\decks.mdx",
+          "title": "Best Lorwyn Eclipsed Commander Decks 2026: All Precons Reviewed"
+        },
+        {
+          "file": "commander\\legendary-creatures.mdx",
+          "title": "All Lorwyn Eclipsed Legendary Creatures 2026: Commander Options"
+        },
+        {
+          "file": "commander\\overview.mdx",
+          "title": "Lorwyn Eclipsed Commander 2026: Overview, Decks & Strategy Ideas"
+        },
+        {
+          "file": "commander\\precons.mdx",
+          "title": "Lorwyn Eclipsed Commander Precons 2026: All 4 Decks Analyzed"
+        },
+        {
+          "file": "commander\\tech.mdx",
+          "title": "Lorwyn Eclipsed Commander Tech 2026: Best Cards & Meta Cards"
+        },
+        {
+          "file": "community\\moxfield.mdx",
+          "title": "Moxfield Lorwyn Eclipsed 2026: Build, Share & Test Decks Online"
+        },
+        {
+          "file": "community\\reddit-podcast.mdx",
+          "title": "Magic Story Podcast: Lorwyn Eclipsed 2026 Discussion & Analysis"
+        },
+        {
+          "file": "community\\wiki.mdx",
+          "title": "Lorwyn Eclipsed Wiki 2026: Comprehensive Reference & Resource Guide"
+        },
+        {
+          "file": "content\\art.mdx",
+          "title": "Stunning Lorwyn Eclipsed Art 2026: Best Illustrations & Artists"
+        },
+        {
+          "file": "content\\leaks.mdx",
+          "title": "Latest Lorwyn Eclipsed Leaks 2026: Rumors, Leaked Cards & Predictions"
+        },
+        {
+          "file": "content\\lore.mdx",
+          "title": "Deep Dive Into Lorwyn Eclipsed Lore 2026: Characters & Worldbuilding"
+        },
+        {
+          "file": "mechanics\\boggart.mdx",
+          "title": "Boggarts in Lorwyn Eclipsed 2026: Creature Guide & Tribal Info"
+        },
+        {
+          "file": "mechanics\\overview.mdx",
+          "title": "Lorwyn Eclipsed Mechanics 2026: All Keywords & Abilities Explained"
+        },
+        {
+          "file": "mechanics\\persist-creatures.mdx",
+          "title": "Persist in Lorwyn Eclipsed 2026: Best Persist Creatures Listed"
+        },
+        {
+          "file": "mechanics\\token.mdx",
+          "title": "Lorwyn Eclipsed Tokens 2026: All Token Types & Token Generation"
+        },
+        {
+          "file": "pricing\\amazon.mdx",
+          "title": "Lorwyn Eclipsed on Amazon 2026: Preorder & Where to Buy Today"
+        },
+        {
+          "file": "pricing\\msrp.mdx",
+          "title": "Lorwyn Eclipsed MSRP 2026: Official Pricing, Value & Product Costs"
+        },
+        {
+          "file": "pricing\\reprints.mdx",
+          "title": "Lorwyn Eclipsed Reprints 2026: Classic Cards Making a Return"
+        },
+        {
+          "file": "pricing\\set-price.mdx",
+          "title": "Lorwyn Eclipsed Set Price 2026: Complete Pricing & Value Guide"
+        },
+        {
+          "file": "pricing\\tcgplayer.mdx",
+          "title": "Lorwyn Eclipsed on TCGPlayer 2026: Buy & Sell Prices Updated"
+        },
+        {
+          "file": "products\\box.mdx",
+          "title": "Lorwyn Eclipsed Box Types 2026: Complete Guide to All Products"
+        },
+        {
+          "file": "products\\collector-booster-box.mdx",
+          "title": "Lorwyn Eclipsed Collector Booster Box 2026: Premium Cards & Value Guide"
+        },
+        {
+          "file": "products\\draft-night.mdx",
+          "title": "Lorwyn Eclipsed Draft Night 2026: Event Details, Contents & How to Host"
+        },
+        {
+          "file": "products\\play-booster.mdx",
+          "title": "Lorwyn Eclipsed Play Booster 2026: Standard Draft Box Contents"
+        },
+        {
+          "file": "products\\precon.mdx",
+          "title": "Best Lorwyn Eclipsed Precon Decks 2026: Complete Reviews & Buying Guide (lorwyn eclipsed precon)"
+        },
+        {
+          "file": "products\\preorder.mdx",
+          "title": "Lorwyn Eclipsed Preorder 2026: Complete Guide & Where to Order"
+        },
+        {
+          "file": "release\\release-date.mdx",
+          "title": "Lorwyn Eclipsed Release Date 2026: Official Launch Timeline & Pre-Release Event Details"
+        },
+        {
+          "file": "release\\schedule.mdx",
+          "title": "Lorwyn Eclipsed Release Schedule 2026: Spoilers to Launch Timeline"
+        },
+        {
+          "file": "release\\when-come-out.mdx",
+          "title": "When Does Lorwyn Eclipsed Come Out 2026: Official Launch Timeline"
+        },
+        {
+          "file": "release\\when-release.mdx",
+          "title": "When Does Lorwyn Eclipsed Release 2026? Official Release Dates"
+        }
+      ]
+    },
+    "https://www.youtube.com/embed/r-Apv-KMm5o": {
+      "status": "working",
+      "statusCode": 200,
+      "finalUrl": "https://www.youtube.com/embed/r-Apv-KMm5o",
+      "sources": [
+        {
+          "file": "commander\\edhrec.mdx",
+          "title": "EDHREC Lorwyn Eclipsed 2026: Top Commanders & Deck Strategies"
+        },
+        {
+          "file": "community\\mtg-wiki.mdx",
+          "title": "MTG Wiki Lorwyn Eclipsed 2026: Complete Official Lore & Set Details"
+        },
+        {
+          "file": "limited\\sealed.mdx",
+          "title": "Lorwyn Eclipsed Sealed 2026: Complete Pool Building & Strategy Guide"
+        },
+        {
+          "file": "products\\prerelease.mdx",
+          "title": "Prerelease Lorwyn Eclipsed 2026: Dates, Events & How to Compete"
+        }
+      ]
+    },
+    "https://www.youtube.com/embed/ANFO8YtqsN0": {
+      "status": "working",
+      "statusCode": 200,
+      "finalUrl": "https://www.youtube.com/embed/ANFO8YtqsN0",
+      "sources": [
+        {
+          "file": "community\\mtggoldfish.mdx",
+          "title": "MTGGoldfish Lorwyn Eclipsed 2026: Complete Metagame & Analysis"
+        },
+        {
+          "file": "community\\reddit-podcast.mdx",
+          "title": "Magic Story Podcast: Lorwyn Eclipsed 2026 Discussion & Analysis"
+        },
+        {
+          "file": "community\\scryfall.mdx",
+          "title": "Lorwyn Eclipsed on Scryfall 2026: Complete Database & Search Guide"
+        },
+        {
+          "file": "community\\wiki.mdx",
+          "title": "Lorwyn Eclipsed Wiki 2026: Comprehensive Reference & Resource Guide"
+        },
+        {
+          "file": "limited\\draft-night.mdx",
+          "title": "Lorwyn Eclipsed Draft Night 2026: Event Details, Contents & How to Host"
+        },
+        {
+          "file": "limited\\draft.mdx",
+          "title": "Essential Lorwyn Eclipsed Draft Guide 2026: Strategies & Tips"
+        },
+        {
+          "file": "limited\\overview.mdx",
+          "title": "Lorwyn Eclipsed Limited Format 2026: Overview & Meta Analysis"
+        },
+        {
+          "file": "limited\\set-review.mdx",
+          "title": "Lorwyn Eclipsed Limited Set Review 2026: Card Rankings & Analysis"
+        },
+        {
+          "file": "mechanics\\keywords.mdx",
+          "title": "Lorwyn Eclipsed Keywords 2026: Complete Mechanic & Ability Guide"
+        },
+        {
+          "file": "pricing\\amazon.mdx",
+          "title": "Lorwyn Eclipsed on Amazon 2026: Preorder & Where to Buy Today"
+        }
+      ]
+    },
+    "https://www.pcgamer.com/": {
+      "status": "working",
+      "statusCode": 200,
+      "finalUrl": "https://www.pcgamer.com/",
+      "sources": [
+        {
+          "file": "commander\\deck-list.mdx",
+          "title": "Complete Lorwyn Eclipsed Commander Deck Lists 2026: All Decks Analyzed"
+        },
+        {
+          "file": "content\\spoilers.mdx",
+          "title": "Lorwyn Eclipsed Spoilers 2026: Daily Card Reveals & Complete Visual Gallery"
+        },
+        {
+          "file": "content\\story.mdx",
+          "title": "Lorwyn Eclipsed Story 2026: Plot Summary, Characters & Lore Explained"
+        },
+        {
+          "file": "limited\\draft-guide.mdx",
+          "title": "Complete Lorwyn Eclipsed Draft Guide 2026: Archetype Breakdown (lorwyn eclipsed draft guide)"
+        },
+        {
+          "file": "products\\collector-booster-box.mdx",
+          "title": "Lorwyn Eclipsed Collector Booster Box 2026: Premium Cards & Value Guide"
+        },
+        {
+          "file": "products\\prerelease.mdx",
+          "title": "Prerelease Lorwyn Eclipsed 2026: Dates, Events & How to Compete"
+        }
+      ]
+    },
+    "https://www.polygon.com/": {
+      "status": "working",
+      "statusCode": 200,
+      "finalUrl": "https://www.polygon.com/",
+      "sources": [
+        {
+          "file": "community\\mythic-spoilers.mdx",
+          "title": "Mythic Spoilers Lorwyn Eclipsed 2026: Visual Spoiler & Card Gallery"
+        },
+        {
+          "file": "pricing\\reprints.mdx",
+          "title": "Lorwyn Eclipsed Reprints 2026: Classic Cards Making a Return"
+        },
+        {
+          "file": "products\\collector-booster.mdx",
+          "title": "Lorwyn Eclipsed Collector Booster 2026: Contents, Pull Rates & Value"
+        }
+      ]
+    },
+    "https://www.youtube.com/embed/h1yhV9f5Xy4": {
+      "status": "working",
+      "statusCode": 200,
+      "finalUrl": "https://www.youtube.com/embed/h1yhV9f5Xy4",
+      "sources": [
+        {
+          "file": "community\\mythic-spoilers.mdx",
+          "title": "Mythic Spoilers Lorwyn Eclipsed 2026: Visual Spoiler & Card Gallery"
+        }
+      ]
+    },
+    "https://www.youtube.com/embed/9rgi6Fs3_NQ": {
+      "status": "working",
+      "statusCode": 200,
+      "finalUrl": "https://www.youtube.com/embed/9rgi6Fs3_NQ",
+      "sources": [
+        {
+          "file": "content\\card-gallery.mdx",
+          "title": "Lorwyn Eclipsed Card Gallery 2026: Beautiful Artwork & Special Frames"
+        },
+        {
+          "file": "content\\card-list.mdx",
+          "title": "Complete Lorwyn Eclipsed Card List 2026: All 211 Cards Revealed"
+        },
+        {
+          "file": "content\\spoilers.mdx",
+          "title": "Lorwyn Eclipsed Spoilers 2026: Daily Card Reveals & Complete Visual Gallery"
+        },
+        {
+          "file": "content\\trailer.mdx",
+          "title": "Lorwyn Eclipsed Official Trailer 2026: Jim Henson Production"
+        },
+        {
+          "file": "pricing\\collecting.mdx",
+          "title": "Collecting Lorwyn Eclipsed 2026: Essential Cards & Strategies"
+        },
+        {
+          "file": "pricing\\expensive-cards.mdx",
+          "title": "Most Expensive Lorwyn Eclipsed Cards 2026: All Chase Cards Listed"
+        },
+        {
+          "file": "products\\booster-box.mdx",
+          "title": "Lorwyn Eclipsed Booster Box 2026: MSRP, Contents & Best Places to Buy"
+        },
+        {
+          "file": "products\\bundle.mdx",
+          "title": "Lorwyn Eclipsed Bundle 2026: What's Included, Price & Promo Cards"
+        }
+      ]
+    },
+    "https://www.youtube.com/embed/ePz4IPxpGrg": {
+      "status": "working",
+      "statusCode": 200,
+      "finalUrl": "https://www.youtube.com/embed/ePz4IPxpGrg",
+      "sources": [
+        {
+          "file": "community\\mythic-spoilers.mdx",
+          "title": "Mythic Spoilers Lorwyn Eclipsed 2026: Visual Spoiler & Card Gallery"
+        }
+      ]
+    },
+    "https://www.youtube.com/embed/DSlENn1WJZM": {
+      "status": "working",
+      "statusCode": 200,
+      "finalUrl": "https://www.youtube.com/embed/DSlENn1WJZM",
+      "sources": [
+        {
+          "file": "limited\\draft-guide.mdx",
+          "title": "Complete Lorwyn Eclipsed Draft Guide 2026: Archetype Breakdown (lorwyn eclipsed draft guide)"
+        },
+        {
+          "file": "limited\\draft-simulator.mdx",
+          "title": "Best Lorwyn Eclipsed Draft Simulators 2026: Online Practice Tools"
+        },
+        {
+          "file": "limited\\draftsim.mdx",
+          "title": "DraftSim Lorwyn Eclipsed 2026: Online Draft Practice & Simulator"
+        }
+      ]
+    },
+    "https://www.youtube.com/embed/3-Mj_tnYC0M": {
+      "status": "working",
+      "statusCode": 200,
+      "finalUrl": "https://www.youtube.com/embed/3-Mj_tnYC0M",
+      "sources": [
+        {
+          "file": "limited\\draft-guide.mdx",
+          "title": "Complete Lorwyn Eclipsed Draft Guide 2026: Archetype Breakdown (lorwyn eclipsed draft guide)"
+        },
+        {
+          "file": "mechanics\\changelings.mdx",
+          "title": "Changelings in Lorwyn Eclipsed 2026: All Shapeshifter Cards Guide"
+        }
+      ]
+    },
+    "https://lorwyneclipsed.com": {
+      "status": "error",
+      "error": "fetch failed",
+      "sources": [
+        {
+          "file": "mechanics\\persist-creatures.mdx",
+          "title": "Persist in Lorwyn Eclipsed 2026: Best Persist Creatures Listed"
+        }
+      ]
+    },
+    "https://www.youtube.com/embed/j9VOMcZuQa8": {
+      "status": "working",
+      "statusCode": 200,
+      "finalUrl": "https://www.youtube.com/embed/j9VOMcZuQa8",
+      "sources": [
+        {
+          "file": "mechanics\\goblins.mdx",
+          "title": "Goblins in Lorwyn Eclipsed 2026: Best Goblin Cards & Tribal Guide"
+        },
+        {
+          "file": "pricing\\cardmarket.mdx",
+          "title": "Lorwyn Eclipsed on Cardmarket 2026: European Prices & Price Guide"
+        }
+      ]
+    },
+    "https://www.youtube.com/embed/253nMYzKw58": {
+      "status": "working",
+      "statusCode": 200,
+      "finalUrl": "https://www.youtube.com/embed/253nMYzKw58",
+      "sources": [
+        {
+          "file": "mechanics\\elf.mdx",
+          "title": "Elves in Lorwyn Eclipsed 2026: Best Elf Cards & Tribal Decks"
+        }
+      ]
+    },
+    "https://www.youtube.com/embed/vK5RUxzfS5c": {
+      "status": "working",
+      "statusCode": 200,
+      "finalUrl": "https://www.youtube.com/embed/vK5RUxzfS5c",
+      "sources": [
+        {
+          "file": "mechanics\\faeries.mdx",
+          "title": "Faeries in Lorwyn Eclipsed 2026: Evasive Creatures & Tribal Guide"
+        }
+      ]
+    },
+    "https://www.youtube.com/embed/v8P1hlAktM4": {
+      "status": "working",
+      "statusCode": 200,
+      "finalUrl": "https://www.youtube.com/embed/v8P1hlAktM4",
+      "sources": [
+        {
+          "file": "pricing\\collector.mdx",
+          "title": "Lorwyn Eclipsed Collector Guide 2026: All Special Products Listed"
+        }
+      ]
+    },
+    "https://www.youtube.com/embed/NqM5xDmPaFQ": {
+      "status": "working",
+      "statusCode": 200,
+      "finalUrl": "https://www.youtube.com/embed/NqM5xDmPaFQ",
+      "sources": [
+        {
+          "file": "products\\collector-booster.mdx",
+          "title": "Lorwyn Eclipsed Collector Booster 2026: Contents, Pull Rates & Value"
+        }
+      ]
+    },
+    "https://www.youtube.com/embed/ioSpKvk7gGg": {
+      "status": "working",
+      "statusCode": 200,
+      "finalUrl": "https://www.youtube.com/embed/ioSpKvk7gGg",
+      "sources": [
+        {
+          "file": "products\\collector-booster.mdx",
+          "title": "Lorwyn Eclipsed Collector Booster 2026: Contents, Pull Rates & Value"
+        }
+      ]
+    },
+    "https://www.polygon.com/mtg-lorwyn-eclipsed-commander-decks-decklists-spoiler-reveal/": {
+      "status": "working",
+      "statusCode": 200,
+      "finalUrl": "https://www.polygon.com/mtg-lorwyn-eclipsed-commander-decks-decklists-spoiler-reveal/",
+      "sources": [
+        {
+          "file": "products\\precon.mdx",
+          "title": "Best Lorwyn Eclipsed Precon Decks 2026: Complete Reviews & Buying Guide (lorwyn eclipsed precon)"
+        }
+      ]
+    },
+    "https://magic.wizards.com/en/news/announcements/lorwyn-eclipsed-commander-decklists?utm_source=chatgpt.com": {
+      "status": "working",
+      "statusCode": 200,
+      "finalUrl": "https://magic.wizards.com/en/news/announcements/lorwyn-eclipsed-commander-decklists?utm_source=chatgpt.com",
+      "sources": [
+        {
+          "file": "products\\precon.mdx",
+          "title": "Best Lorwyn Eclipsed Precon Decks 2026: Complete Reviews & Buying Guide (lorwyn eclipsed precon)"
+        }
+      ]
+    },
+    "https://oldschool.runescape.com/": {
+      "status": "working",
+      "statusCode": 200,
+      "finalUrl": "https://oldschool.runescape.com/",
+      "sources": [
+        {
+          "file": "release\\release-info.mdx",
+          "title": "Lorwyn Eclipsed Release Information 2026: Launch Details & Schedule"
+        }
+      ]
+    }
+  },
+  "summary": {
+    "summary": {
+      "totalUniqueLinks": 20,
+      "checkedLinks": 20,
+      "workingLinks": 19,
+      "brokenLinks": 1,
+      "redirects": 0,
+      "workingPercentage": "95.00%"
+    },
+    "brokenLinks": [
+      {
+        "url": "https://lorwyneclipsed.com",
+        "status": "error",
+        "error": "fetch failed",
+        "sources": [
+          {
+            "file": "mechanics\\persist-creatures.mdx",
+            "title": "Persist in Lorwyn Eclipsed 2026: Best Persist Creatures Listed"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html style="margin: 0; padding: 0; overflow: hidden; width: 100%; height: 100%;">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Adsterra 468x60 Banner</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    html, body {
+      width: 100%;
+      height: 100%;
+      overflow: hidden;
+    }
+  </style>
+</head>
+<body>
+  <!-- 从 URL 参数读取广告 Key -->
+  <script type="text/javascript">
+    // 从 URL 获取广告 Key
+    const urlParams = new URLSearchParams(window.location.search);
+    const adKey = urlParams.get('key');
+
+    // 仅当 Key 存在时加载广告
+    if (adKey && adKey.trim() !== '') {
+      // 1. 设置 atOptions
+      atOptions = {
+        'key': adKey,
+        'format': 'iframe',
+        'height': 60,
+        'width': 468,
+        'params': {}
+      };
+
+      // 2. 动态加载脚本
+      const script = document.createElement('script');
+      script.type = 'text/javascript';
+      script.src = 'https://www.highperformanceformat.com/' + adKey + '/invoke.js';
+      document.body.appendChild(script);
+    }
+  </script>
+</body>
+</html>

@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>测试 Adsterra Social Bar</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 800px;
+      margin: 50px auto;
+      padding: 20px;
+      background: #f5f5f5;
+    }
+    .info-box {
+      background: white;
+      padding: 20px;
+      margin: 20px 0;
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    }
+    h1 {
+      color: #333;
+    }
+    .status {
+      padding: 10px;
+      margin: 10px 0;
+      border-radius: 4px;
+      font-weight: bold;
+    }
+    .success {
+      background: #d4edda;
+      color: #155724;
+    }
+    .warning {
+      background: #fff3cd;
+      color: #856404;
+    }
+    .error {
+      background: #f8d7da;
+      color: #721c24;
+    }
+    ul {
+      line-height: 1.8;
+    }
+    code {
+      background: #f0f0f0;
+      padding: 2px 6px;
+      border-radius: 3px;
+      font-family: monospace;
+    }
+  </style>
+</head>
+<body>
+  <h1>🔍 Adsterra Social Bar 测试页面</h1>
+
+  <div class="info-box">
+    <h2>Social Bar 配置信息</h2>
+    <p><strong>Key:</strong> <code>64/a4/34/64a434b905f896020b999896860c71a2</code></p>
+    <p><strong>脚本 URL:</strong> <code>https://pl28481201.effectivegatecpm.com/64/a4/34/64a434b905f896020b999896860c71a2.js</code></p>
+    <p><strong>位置:</strong> 页面底部（固定在屏幕底部或侧边）</p>
+  </div>
+
+  <div class="info-box">
+    <h2>检查清单</h2>
+    <div id="status-container">
+      <div class="status warning">⏳ 正在检查 Social Bar 脚本...</div>
+    </div>
+  </div>
+
+  <div class="info-box">
+    <h2>为什么看不到 Social Bar？</h2>
+    <ul>
+      <li><strong>🔴 VPN/代理</strong> - 必须关闭 VPN 才能看到广告</li>
+      <li><strong>🔴 广告拦截器</strong> - 禁用 AdBlock、uBlock Origin 等扩展</li>
+      <li><strong>🟡 加载时间</strong> - Social Bar 可能需要 3-5 秒才显示</li>
+      <li><strong>🟡 地区限制</strong> - 某些地区可能不显示广告</li>
+      <li><strong>🟡 浏览器设置</strong> - 检查浏览器是否阻止了第三方脚本</li>
+    </ul>
+  </div>
+
+  <div class="info-box">
+    <h2>Social Bar 应该显示在哪里？</h2>
+    <p>Social Bar 通常会显示为：</p>
+    <ul>
+      <li>📱 <strong>移动端：</strong> 固定在屏幕底部的横幅</li>
+      <li>💻 <strong>桌面端：</strong> 固定在屏幕左侧或右侧的垂直栏</li>
+      <li>🎨 <strong>样式：</strong> 通常包含社交媒体图标或广告内容</li>
+    </ul>
+  </div>
+
+  <div class="info-box">
+    <h2>测试步骤</h2>
+    <ol style="line-height: 2;">
+      <li>关闭所有 VPN 和代理</li>
+      <li>禁用浏览器广告拦截扩展</li>
+      <li>刷新页面</li>
+      <li>等待 5-10 秒</li>
+      <li>检查页面底部或侧边是否出现 Social Bar</li>
+    </ol>
+  </div>
+
+  <div style="height: 500px; background: #e9ecef; border-radius: 8px; display: flex; align-items: center; justify-content: center; margin: 20px 0;">
+    <p style="color: #6c757d; font-size: 18px;">滚动页面测试 Social Bar 是否固定显示</p>
+  </div>
+
+  <!-- Adsterra Social Bar 脚本 -->
+  <script type="text/javascript">
+    const socialBarKey = "64/a4/34/64a434b905f896020b999896860c71a2";
+    const scriptUrl = `https://pl28481201.effectivegatecpm.com/${socialBarKey}.js`;
+
+    // 动态加载脚本
+    const script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.src = scriptUrl;
+    script.async = true;
+
+    script.onload = function() {
+      document.getElementById('status-container').innerHTML =
+        '<div class="status success">✅ Social Bar 脚本已成功加载！</div>' +
+        '<p>如果仍然看不到广告，请检查上述原因。</p>';
+    };
+
+    script.onerror = function() {
+      document.getElementById('status-container').innerHTML =
+        '<div class="status error">❌ Social Bar 脚本加载失败！</div>' +
+        '<p>可能原因：网络问题、VPN 阻止、或广告拦截器。</p>';
+    };
+
+    document.body.appendChild(script);
+
+    // 5秒后检查
+    setTimeout(() => {
+      const currentStatus = document.getElementById('status-container').innerHTML;
+      if (currentStatus.includes('正在检查')) {
+        document.getElementById('status-container').innerHTML =
+          '<div class="status warning">⚠️ 脚本加载超时</div>' +
+          '<p>请检查网络连接和 VPN 设置。</p>';
+      }
+    }, 5000);
+  </script>
+</body>
+</html>

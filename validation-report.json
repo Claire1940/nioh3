@@ -1,0 +1,92 @@
+{
+  "timestamp": "2026-01-18T15:12:26.843Z",
+  "totalFiles": 67,
+  "filesWithErrors": 0,
+  "errors": [],
+  "warnings": [],
+  "youtubeStats": {
+    "total": 58,
+    "valid": 58,
+    "invalid": 0,
+    "videos": {
+      "8Wo9WxQtdTA": {
+        "status": "valid",
+        "file": "release\\when-release.mdx",
+        "title": "When Does Lorwyn Eclipsed Release 2026? Official Release Dates"
+      },
+      "r-Apv-KMm5o": {
+        "status": "valid",
+        "file": "release\\prerelease.mdx",
+        "title": "Lorwyn Eclipsed Prerelease 2026: Complete Schedule & Event Guide"
+      },
+      "ANFO8YtqsN0": {
+        "status": "valid",
+        "file": "mechanics\\keywords.mdx",
+        "title": "Lorwyn Eclipsed Keywords 2026: Complete Mechanic & Ability Guide"
+      },
+      "h1yhV9f5Xy4": {
+        "status": "valid",
+        "file": "community\\mythic-spoilers.mdx",
+        "title": "Mythic Spoilers Lorwyn Eclipsed 2026: Visual Spoiler & Card Gallery"
+      },
+      "9rgi6Fs3_NQ": {
+        "status": "valid",
+        "file": "products\\bundle.mdx",
+        "title": "Lorwyn Eclipsed Bundle 2026: What's Included, Price & Promo Cards"
+      },
+      "DSlENn1WJZM": {
+        "status": "valid",
+        "file": "limited\\draftsim.mdx",
+        "title": "DraftSim Lorwyn Eclipsed 2026: Online Draft Practice & Simulator"
+      },
+      "3-Mj_tnYC0M": {
+        "status": "valid",
+        "file": "mechanics\\changelings.mdx",
+        "title": "Changelings in Lorwyn Eclipsed 2026: All Shapeshifter Cards Guide"
+      },
+      "vK5RUxzfS5c": {
+        "status": "valid",
+        "file": "mechanics\\faeries.mdx",
+        "title": "Faeries in Lorwyn Eclipsed 2026: Evasive Creatures & Tribal Guide"
+      },
+      "v8P1hlAktM4": {
+        "status": "valid",
+        "file": "pricing\\collector.mdx",
+        "title": "Lorwyn Eclipsed Collector Guide 2026: All Special Products Listed"
+      },
+      "NqM5xDmPaFQ": {
+        "status": "valid",
+        "file": "products\\collector-booster.mdx",
+        "title": "Lorwyn Eclipsed Collector Booster 2026: Contents, Pull Rates & Value"
+      }
+    }
+  },
+  "linkStats": {
+    "total": 237,
+    "internal": 100,
+    "external": 79,
+    "checked": 0
+  },
+  "summary": {
+    "summary": {
+      "totalFiles": 67,
+      "filesWithErrors": 0,
+      "errorRate": "0.00%",
+      "totalErrors": 0,
+      "totalWarnings": 0
+    },
+    "youtubeValidation": {
+      "total": 58,
+      "valid": 58,
+      "invalid": 0,
+      "validationRate": "100.00%"
+    },
+    "linkStats": {
+      "total": 237,
+      "internal": 100,
+      "external": 79,
+      "checked": 0
+    },
+    "errorsByType": {}
+  }
+}

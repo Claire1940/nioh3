@@ -1,0 +1,26 @@
+
+> starrupture-org@0.1.0 build
+> next build
+
+   ▲ Next.js 15.5.7
+   - Environments: .env.local
+   - Experiments (use with caution):
+     · optimizePackageImports
+
+   Creating an optimized production build ...
+ ✓ Compiled successfully in 5.6s
+   Linting and checking validity of types ...
+Failed to compile.
+
+./src/app/[locale]/layout.tsx:128:33
+Type error: Argument of type '"en" | "es" | "ru"' is not assignable to parameter of type '"en" | "th" | "ko" | "ja" | "fr"'.
+  Type '"es"' is not assignable to type '"en" | "th" | "ko" | "ja" | "fr"'.
+
+[0m [90m 126 |[39m
+ [90m 127 |[39m   [90m// 确保传入的 `locale` 是有效的[39m
+[31m[1m>[22m[39m[90m 128 |[39m   [36mif[39m ([33m![39mrouting[33m.[39mlocales[33m.[39mincludes(locale [36mas[39m [32m'en'[39m [33m|[39m [32m'ru'[39m [33m|[39m [32m'es'[39m)) {
+ [90m     |[39m                                 [31m[1m^[22m[39m
+ [90m 129 |[39m     notFound()[33m;[39m
+ [90m 130 |[39m   }
+ [90m 131 |[39m[0m
+Next.js build worker exited with code: 1 and signal: null

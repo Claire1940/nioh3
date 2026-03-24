@@ -1,0 +1,18 @@
+# Development tools (do not deploy)
+/tools
+
+# Python artifacts
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+requirements.txt
+
+# Build cache and TypeScript
+*.tsbuildinfo
+.next/cache
+
+# Local environment and config
+.env.local
+.claude

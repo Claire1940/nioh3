@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>320x50 广告在不同设备上的显示</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 1200px;
+      margin: 50px auto;
+      padding: 20px;
+      background: #f5f5f5;
+    }
+    .container {
+      background: white;
+      padding: 30px;
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+      margin-bottom: 30px;
+    }
+    h1 {
+      color: #333;
+      margin-bottom: 10px;
+    }
+    .device-demo {
+      display: flex;
+      gap: 30px;
+      margin: 30px 0;
+      flex-wrap: wrap;
+    }
+    .device {
+      flex: 1;
+      min-width: 300px;
+      border: 2px solid #ddd;
+      border-radius: 8px;
+      padding: 20px;
+      background: #fafafa;
+    }
+    .device h3 {
+      margin-top: 0;
+      color: #555;
+    }
+    .ad-preview {
+      background: white;
+      border: 1px dashed #999;
+      padding: 10px;
+      margin: 15px 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    .size-comparison {
+      margin: 20px 0;
+    }
+    .size-bar {
+      height: 50px;
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      border-radius: 4px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: white;
+      font-weight: bold;
+      margin: 10px 0;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 20px 0;
+    }
+    th, td {
+      padding: 12px;
+      text-align: left;
+      border-bottom: 1px solid #ddd;
+    }
+    th {
+      background: #f8f9fa;
+      font-weight: bold;
+    }
+    .yes { color: #28a745; font-weight: bold; }
+    .optimal { color: #007bff; font-weight: bold; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>📱💻 320x50 广告在不同设备上的显示</h1>
+    <p style="color: #666; font-size: 16px;">320x50 是一个通用尺寸，在桌面端和移动端都能正常显示。</p>
+  </div>
+
+  <div class="container">
+    <h2>🖥️ 设备兼容性</h2>
+    <div class="device-demo">
+      <div class="device">
+        <h3>📱 移动端 (375px 宽)</h3>
+        <p>iPhone、Android 手机</p>
+        <div class="ad-preview">
+          <iframe
+            src="/ads/banner-320x50.html?key=3f41484348c9b9c8a5769d16c6fb392f"
+            width="320"
+            height="50"
+            style="border: none; display: block;"
+            scrolling="no"
+            title="320x50 Mobile"
+          ></iframe>
+        </div>
+        <p style="color: #28a745; font-weight: bold;">✅ 完美适配</p>
+        <p style="font-size: 14px; color: #666;">320px 宽度几乎占满屏幕，显示效果最佳</p>
+      </div>
+
+      <div class="device">
+        <h3>💻 桌面端 (1920px 宽)</h3>
+        <p>PC、笔记本电脑</p>
+        <div class="ad-preview">
+          <iframe
+            src="/ads/banner-320x50.html?key=3f41484348c9b9c8a5769d16c6fb392f"
+            width="320"
+            height="50"
+            style="border: none; display: block;"
+            scrolling="no"
+            title="320x50 Desktop"
+          ></iframe>
+        </div>
+        <p style="color: #28a745; font-weight: bold;">✅ 正常显示</p>
+        <p style="font-size: 14px; color: #666;">320px 在桌面端显得较小，但完全可见</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="container">
+    <h2>📏 尺寸对比</h2>
+    <div class="size-comparison">
+      <p><strong>320x50</strong> (移动端优化)</p>
+      <div class="size-bar" style="width: 320px; max-width: 100%;">320px × 50px</div>
+
+      <p><strong>468x60</strong> (桌面端小横幅)</p>
+      <div class="size-bar" style="width: 468px; max-width: 100%;">468px × 60px</div>
+
+      <p><strong>728x90</strong> (桌面端标准横幅)</p>
+      <div class="size-bar" style="width: 728px; max-width: 100%;">728px × 90px</div>
+    </div>
+  </div>
+
+  <div class="container">
+    <h2>📊 所有广告尺寸对比表</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>广告尺寸</th>
+          <th>宽×高</th>
+          <th>移动端</th>
+          <th>桌面端</th>
+          <th>最佳使用场景</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><strong>320x50</strong></td>
+          <td>320×50</td>
+          <td class="optimal">✅ 最佳</td>
+          <td class="yes">✅ 可用</td>
+          <td>移动端页面底部、文章之间</td>
+        </tr>
+        <tr>
+          <td><strong>468x60</strong></td>
+          <td>468×60</td>
+          <td class="yes">✅ 可用</td>
+          <td class="optimal">✅ 最佳</td>
+          <td>桌面端文章顶部、底部</td>
+        </tr>
+        <tr>
+          <td><strong>728x90</strong></td>
+          <td>728×90</td>
+          <td>❌ 太宽</td>
+          <td class="optimal">✅ 最佳</td>
+          <td>桌面端页面顶部、文章顶部</td>
+        </tr>
+        <tr>
+          <td><strong>300x250</strong></td>
+          <td>300×250</td>
+          <td class="yes">✅ 可用</td>
+          <td class="yes">✅ 可用</td>
+          <td>侧边栏、文章中间</td>
+        </tr>
+        <tr>
+          <td><strong>160x600</strong></td>
+          <td>160×600</td>
+          <td>❌ 太高</td>
+          <td class="optimal">✅ 最佳</td>
+          <td>桌面端侧边栏（摩天大楼）</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <div class="container">
+    <h2>💡 使用建议</h2>
+    <h3>响应式广告策略</h3>
+    <pre style="background: #f8f9fa; padding: 15px; border-radius: 4px; overflow-x: auto;">
+// 根据屏幕宽度显示不同尺寸的广告
+{isMobile ? (
+  &lt;AdBanner type="banner-320x50" /&gt;  // 移动端
+) : (
+  &lt;AdBanner type="banner-728x90" /&gt;  // 桌面端
+)}
+</pre>
+
+    <h3>固定位置广告</h3>
+    <ul style="line-height: 1.8;">
+      <li><strong>移动端底部：</strong> 使用 320x50，固定在屏幕底部</li>
+      <li><strong>桌面端顶部：</strong> 使用 728x90，放在导航栏下方</li>
+      <li><strong>文章中间：</strong> 使用 300x250，嵌入内容中</li>
+      <li><strong>侧边栏：</strong> 使用 160x600 或 300x250</li>
+    </ul>
+  </div>
+
+  <div class="container">
+    <h2>🎯 结论</h2>
+    <div style="background: #e7f3ff; padding: 20px; border-radius: 8px; border-left: 4px solid #007bff;">
+      <p style="margin: 0; font-size: 16px;">
+        <strong>是的，320x50 广告在桌面端完全可以看到！</strong>
+      </p>
+      <p style="margin: 10px 0 0 0; color: #555;">
+        虽然它在桌面端显得较小，但这正是它的优势——不会过于突兀，同时在移动端有最佳显示效果。
+        这是一个通用尺寸，适合需要在多设备上保持一致体验的场景。
+      </p>
+    </div>
+  </div>
+</body>
+</html>
