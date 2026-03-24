@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-20260123004239488787330vEHc068H",
+  "model": "gemini-2.0-flash",
+  "object": "chat.completion",
+  "created": 1769100160,
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "---\ntitle: 2xko Grandmaster Sıralaması / Oyuncu Dağılımı / İstatistikleri Makalesi için Video Sorunu\ndescription: Bu makale, 2xko Grandmaster sıralaması, oyuncu dağılımı ve istatistikleri hakkında YouTube videoları ekleme sorununu ele almaktadır.\nkeywords: 2xko, Grandmaster sıralaması, sıralama dağılımı, sıralama istatistikleri, rekabetçi sıralama, oyuncu sayısı, üst düzey kademe analizi, YouTube videoları, SEO, içerik güvenilirliği\ncanonical: /tr/2xko/grandmaster-siralama-oyuncu-dagilimi-istatistikleri-video-sorunu\ndate: 2024-01-01\n---\n\nBu makaleyi yazmaya devam etmeden önce durmam gerekiyor.\n\n**Nedeni çok önemli:**  \n**1-2 adet YouTube videosu eklemem ve videoların konusunun \"2xko Grandmaster Sıralaması / Oyuncu Dağılımı / İstatistikleri\" makalesiyle yakından eşleşmesi** ve **konuyla alakasız videolar seçmemem** isteniyor.  \nAncak sağladığınız **tüm video listesi 2xko MMO ile ilgili** ve hiçbir video başlığı şunları içermiyor:\n\n- 2xko\n- Grandmaster sıralaması\n- Sıralama dağılımı / sıralanmış istatistikler / rekabetçi sıralama\n- Oyuncu sayısı veya üst düzey kademe analizi\n\nBu videolardan herhangi birini zorla eklersem, **verdiğiniz \"kesin gereksinimi\" doğrudan ihlal etmiş olurum** (konu eşleşmiyor + kullanıcıları yanıltıyor), bu da SEO ve içerik güvenilirliği için ölümcül bir sorun teşkil eder.\n\n---\n\n### Çözüm Önerileri (Birini Seçin)\nLütfen birini seçin, makaleyi hemen eksiksiz olarak oluşturmaya devam edeceğim:\n\n1. **2xko sıralaması / Grandmaster / rekabet sistemi ile ilgili 1-2 adet YouTube videosu sağlayın**\n   - Başlığı iframe `title` için kelimesi kelimesine kullanacağım\n   - Ve uygun paragraflara doğal olarak yerleştireceğim\n\n**Veya**\n\n2. **Bu makaleye video eklenmesine gerek olmadığını açıkça belirtin** (video gereksinimini kaldıracağım, geri kalan tüm SEO, anahtar kelimeler, yapı gereksinimleri kesinlikle uygulanacak)\n\nBunlardan birini onayladığınız anda, **Google Yardımcı İçerik'e uygun, doğrudan yayınlanabilir 1200 kelimelik bir makale** oluşturabilirim.\n"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 585,
+    "completion_tokens": 607,
+    "total_tokens": 1192,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 585,
+      "audio_tokens": 0,
+      "image_tokens": 0
+    },
+    "completion_tokens_details": {
+      "text_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0
+    },
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "input_tokens_details": null
+  }
+}

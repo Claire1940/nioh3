@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-202601312157482873967154v05kiIr",
+  "model": "gemini-2.0-flash",
+  "object": "chat.completion",
+  "created": 1769867869,
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "---\ntitle: \"Hellmart no Steam Deck: Guia de Desempenho e Configurações Ideais\"\ndescription: \"Jogue Hellmart no Steam Deck com desempenho ideal. Atualizado em janeiro de 2026 com guia de configurações e dicas de desempenho.\"\nkeywords: [\"hellmart steam deck\", \"desempenho Steam Deck\", \"jogos portáteis\", \"configurações Hellmart\", \"guia de otimização\"]\ncanonical: \"https://hellmartgame.org/pt/technical/steam-deck\"\ndate: \"2026-01-31\"\nvideo:\n  enabled: true\n  youtubeId: \"V1QchVFxn3g\"\n  title: \"TERROR NO MERCADO! - HELLMART恐怖无商！- 地狱超市\"\n  description: \"TERROR NO MERCADO! - HELLMART恐怖无商！- 地狱超市\"\n  duration: \"PT0S\"\n  uploadDate: \"2026-01-30\"\n---\n\n## Considerações de Desempenho para HELLMART no Steam Deck\n\nQuando se trata de *Hellmart*, alcançar uma taxa de quadros estável é crucial para a imersão. No Steam Deck, a chave é equilibrar a fidelidade gráfica do jogo com suas capacidades de desempenho. Felizmente, o Steam Deck tem poder suficiente para rodar *Hellmart*, mas você precisará ajustar algumas configurações para um desempenho ideal. Aqui estão algumas considerações importantes:\n\n- **Resolução Gráfica**: *Hellmart* pode ser bastante exigente em termos de visuais. Executar o jogo em alta resolução levará o Steam Deck aos seus limites, por isso recomendamos diminuir a resolução para 720p para uma jogabilidade mais suave. Este ajuste reduzirá significativamente a carga gráfica sem sacrificar muita qualidade visual.\n  \n- **Limitação da Taxa de Quadros**: Limitar a taxa de quadros para 30 FPS pode ajudar o Steam Deck a manter um desempenho consistente, especialmente durante momentos intensos em *Hellmart*, onde você pode encontrar sustos ou distúrbios inesperados na loja.\n\n- **V-Sync**: Habilitar o V-Sync pode evitar o screen tearing, um problema comum em dispositivos portáteis como o Steam Deck. No entanto, esteja ciente de que o V-Sync pode afetar o desempenho se sua taxa de quadros cair abaixo dos 30 FPS alvo.\n\n## Ajustando as Configurações de HELLMART para Steam Deck\n\nAqui está um resumo das melhores configurações para executar *Hellmart* no seu Steam Deck. Esses ajustes ajudarão a garantir que você tenha uma experiência suave e agradável.\n\n### 1. **Configurações Gráficas**\n   - **Resolução**: Defina para 1280x800 ou 1280x720 para um desempenho aprimorado.\n   - **Qualidade Gráfica**: Diminua para Médio ou Baixo. Isso reduz as texturas e os detalhes das sombras, fazendo com que o jogo seja executado de forma mais eficiente no hardware do Steam Deck.\n   - **Qualidade da Sombra**: Diminua a qualidade da sombra para reduzir a carga de processamento. As sombras em *Hellmart* podem ser bastante exigentes e geralmente não são necessárias para a jogabilidade.\n\n### 2. **Opções de Controle**\n   - **Layout do Steam Deck**: Certifique-se de usar um layout personalizado que corresponda ao seu estilo de jogo preferido. Uma configuração comum é mapear o movimento para o joystick esquerdo e os botões de ação (como interagir e correr) para os botões frontais para facilitar o acesso.\n\n### 3. **Configurações de Áudio**\n   - **Ajuste de Volume**: Você pode querer ajustar as configurações de áudio do jogo para evitar sobrecarregar seus ouvidos durante os sustos. Defina o volume da música baixo e os efeitos sonoros em médio para equilibrar a atmosfera assustadora.\n\n### 4. **Uso da Bateria**\n   - **Modo de Economia de Bateria**: Se você estiver jogando em trânsito, considere ativar o Modo de Economia de Bateria para prolongar seu tempo de jogo. Isso diminuirá um pouco o desempenho, mas *Hellmart* ainda pode ser agradável em configurações mais baixas.\n\n---\n\n## Como Maximizar Sua Experiência de Jogo no Steam Deck\n\nAlém de ajustar suas configurações, existem algumas coisas adicionais que você pode fazer para tornar sua experiência de jogo *Hellmart* no Steam Deck ainda melhor:\n\n- **Use um Grip**: Para sessões de jogo prolongadas, um acessório de grip pode tornar o Steam Deck muito mais confortável de segurar.\n- **Modo de Jogo**: Certifique-se de estar no Modo de Jogo no seu Steam Deck, que otimiza o sistema para jogos e oferece fácil acesso às configurações que você precisará ajustar durante o jogo.\n- **Tela Externa**: Se você tiver um monitor portátil ou dock, considere jogar *Hellmart* em uma tela maior para uma experiência mais imersiva.\n\n---\n\n## Dicas da Comunidade para HELLMART no Steam Deck\n\nEmbora ajustar as configurações seja importante, às vezes as melhores dicas vêm da comunidade. Aqui estão alguns conselhos com base no feedback dos jogadores:\n\n- **Mude para Proton Experimental**: Alguns jogadores relataram um desempenho aprimorado ao mudar para Proton Experimental. Esta versão pode oferecer melhor compatibilidade com certos jogos no Steam Deck.\n  \n- **Overclocking**: Embora o overclocking possa não ser necessário para *Hellmart*, alguns usuários experientes do Steam Deck optam por um leve overclock para melhorar o desempenho em jogos mais exigentes. No entanto, isso pode gerar mais calor, então fique de olho na temperatura.\n\n---\n\n## Conclusão\n\nJogar *Hellmart* no Steam Deck pode ser uma experiência emocionante, combinando a tensão do terror com a conveniência da portabilidade. Ao otimizar suas configurações para desempenho, ajustar os visuais do seu jogo e considerar algumas dicas da comunidade, você poderá desfrutar de *Hellmart* com o mínimo de interrupções ou quedas de quadros. Com esses ajustes, você estará pronto para sobreviver ao supermercado aterrorizante no conforto do seu dispositivo portátil.\n\n---\n"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1425,
+    "completion_tokens": 1373,
+    "total_tokens": 2798,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 1425,
+      "audio_tokens": 0,
+      "image_tokens": 0
+    },
+    "completion_tokens_details": {
+      "text_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0
+    },
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "input_tokens_details": null
+  }
+}

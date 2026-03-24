@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-20260131215743274063072F9FwCSN8",
+  "model": "gemini-2.0-flash",
+  "object": "chat.completion",
+  "created": 1769867864,
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "---\ntitle: \"LinuxでのHELLMART：インストールガイドとProtonの互換性\"\ndescription: \"このガイドでは、LinuxにHELLMARTをインストールする方法を説明し、よりスムーズなゲーム体験のためのProtonの互換性に関する重要な洞察とトラブルシューティングのヒントを提供します。\"\nkeywords: [\"HELLMART linux\", \"Proton互換性\", \"Linuxゲーム\", \"HELLMARTインストール\", \"LinuxでのHELLMART\"]\ncanonical: \"/ja/technical/linux-guide\"\ndate: \"2026-01-31\"\n---\n\nLinuxでのHELLMART：インストールガイドとProtonの互換性\n===========================================================\n\n*HELLMART*のようなスリリングなホラーゲームが好きだけど、Linuxシステムで実行するのに苦労していませんか？ご心配なく。このガイドは、Linuxに*HELLMART*をインストールし、Protonとの互換性によってスムーズな体験を保証するように設計されています。インストールプロセスを詳しく見て、潜在的な問題に取り組み、*HELLMART*での神経をすり減らす夜勤に備えましょう。\n\nなぜこれが重要なのでしょうか？Linuxゲームは成長を続けていますが、*HELLMART*のような特定のゲームは、互換性に関して課題に直面する可能性があります。SteamのツールであるProtonは、WindowsゲームをLinuxシステムで実行するためのブリッジを提供します。ただし、すべてをスムーズに動作させるには、少しの努力と技術的なノウハウが必要です。このガイドでは、*HELLMART*が提供するすべての不気味な瞬間を、不満なく体験できるようにします。\n\n### Linuxで*HELLMART*を始める\n\nインストールプロセスに入る前に、Linuxシステムがゲームの準備ができていることを確認することが重要です。まず、UbuntuやSteamOSなどの互換性のあるディストリビューションがあり、システムが*HELLMART*を実行するための基本的な要件を満たしていることを確認してください。\n\n#### Linuxでの*HELLMART*のシステム要件\n- **OS**: 最新のLinuxディストリビューション（Ubuntu推奨）。\n- **プロセッサ**: Intel Core i5または同等品。\n- **メモリ**: 8 GB RAM。\n- **グラフィック**: NVIDIA GTX 1060または同等品。\n- **ストレージ**: 少なくとも20 GBの空きディスク容量。\n\n[システム要件ページ](https://hellmartgame.org/technical/system-requirements)にアクセスして、システムがこれらの要件と互換性があるかどうかを確認できます。システムが最小スペックを満たしていることを確認したら、インストールに進むことができます。\n\n### LinuxにSteamをインストールする\n\nLinuxで*HELLMART*を実行するには、Steamが必要です。最高の互換性を得るには、Protonを有効にする必要があります。Steamをまだインストールしていない場合は、次の手順に従ってください。\n\n1. ターミナルウィンドウを開きます。\n2. 次のコマンドを入力して、Steamをインストールします。\n   ```bash\n   sudo apt install steam\n   ```\n3. インストールしたら、アプリケーションメニューからSteamを起動し、Steamアカウントにログインします。\n\n### Protonを使用して*HELLMART*をインストールする\n\nSteamがインストールされたので、*HELLMART*を起動して実行する時間です。Linuxで*HELLMART*をプレイするには、Protonが最適です。Protonを使用すると、*HELLMART*を含むWindowsベースのゲームをLinuxマシンでシームレスに実行できます。\n\n1. **Protonを有効にする**: Steamを開き、[設定]をクリックして、[Steam Play]セクションに移動します。[サポートされているタイトルでSteam Playを有効にする]がオンになっていることを確認します。次に、ドロップダウンメニューから最新のProtonバージョンを選択します。\n2. **Steamから*HELLMART*をインストールする**: Steamライブラリで*HELLMART*を検索し、[インストール]をクリックします。Steamは自動的にProtonを使用して、Linuxシステムでゲームを実行します。\n3. **ゲームを起動する**: インストール後、[プレイ]をクリックして、Linuxで*HELLMART*を起動します。\n\n### トラブルシューティング：一般的な問題と修正\n\n*HELLMART*はProtonでシームレスに動作するはずですが、パフォーマンスの低下やクラッシュなどの軽微な問題を報告するユーザーもいます。トラブルシューティングの手順を次に示します。\n\n- **ゲームが起動しない？**: Protonのアップデートが必要な場合があります。Steamの設定に移動し、最新バージョンのProtonを使用していることを確認してください。ライブラリで*HELLMART*を右クリックし、[プロパティ]を選択して、[互換性]タブで[特定のSteam Play互換性ツールを強制的に使用する]をオンにして、ゲームに特定のProtonバージョンを強制的に使用することもできます。\n  \n- **パフォーマンスの問題**: ラグやフレームレートの低下が発生する場合は、ゲーム内のグラフィック設定を調整してみてください。解像度を下げるか、特定のエフェクトを無効にすると、パフォーマンスが向上する可能性があります。さらに、グラフィックドライバーが最新であることを確認してください。NVIDIAユーザーの場合は、次のコマンドを使用してドライバーを更新できます。\n   ```bash\n   sudo apt update\n   sudo apt upgrade\n   ```\n\n- **オーディオの問題**: オーディオに問題が発生した場合は、`PROTON_NO_ESYNC=1`環境変数を使用してゲームを起動し、問題の原因となっている可能性のある特定のオーディオ機能を無効にしてみてください。これを行うには、*HELLMART*のSteam起動オプションにこの行を追加します。\n\n### Linuxでの*HELLMART*のプレイヤー体験\n\nコミュニティのレポートによると、多くのプレイヤーがProtonを使用してLinuxに*HELLMART*を正常にインストールしてプレイしています。ただし、サウンドまたはグラフィックエフェクトに関連する不具合の報告が時折あります。問題が発生した場合は、フォーラムやRedditのスレッドでユーザーが作成した修正プログラムを確認してください。これらは、独自の問題に対する解決策を提供することがよくあります。\n\n### Linuxで*HELLMART*をプレイする理由\n\nLinuxで*HELLMART*を実行すると、特にProtonの力と組み合わせると、ユニークな体験が得られます。このスーパーマーケットホラーの恐ろしい雰囲気を楽しむだけでなく、Linuxゲームのスリルも体験できます。ProtonとLinuxエコシステムへの定期的なアップデートにより、WindowsゲームとLinuxの互換性は向上し続けており、Linuxゲーマーにとってエキサイティングな時代となっています。\n\nこのガイドの手順に従うことで、*HELLMART*をインストールしてプレイできるようになるはずです。システムを最新の状態に保ち、Protonを使用して最高の互換性を確保することを忘れないでください。\n\n詳細なヒントとトリックについては、[Modページ](https://hellmartgame.org/technical/mods)をチェックして*HELLMART* Modの世界を探索するか、最適なゲームのための[システム要件](https://hellmartgame.org/technical/system-requirements)の詳細をご覧ください。\n"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1568,
+    "completion_tokens": 1504,
+    "total_tokens": 3072,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 1568,
+      "audio_tokens": 0,
+      "image_tokens": 0
+    },
+    "completion_tokens_details": {
+      "text_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0
+    },
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "input_tokens_details": null
+  }
+}

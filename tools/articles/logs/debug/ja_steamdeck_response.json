@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-20260122135930437296210gB698QrY",
+  "model": "gemini-2.0-flash",
+  "object": "chat.completion",
+  "created": 1769061571,
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "---\ntitle: \"2xko SteamDeck 2026: ポータブルゲーミング、互換性、セットアップガイド\"\ndescription: \"2026年にSteam Deckで2xkoをプレイする方法を学びましょう。互換性、セットアップのヒント、パフォーマンスの調整、プレイヤーによる修正など。最新ガイドで今すぐ始めましょう。\"\nkeywords: [\"2xko steamdeck\", \"2xko Steam Deck 互換性\", \"ポータブルMMOゲーミング\", \"Steam Deck セットアップガイド\", \"2xko MMO\"]\ncanonical: \"/ja/support/steamdeck\"\ndate: \"2026-01-21\"\nvideo:\n  enabled: true\n  youtubeId: \"zIcPeOI5cIo\"\n  title: \"2xko for Beginners: Watch this before playing!\"\n  description: \"2xko for Beginners: Watch this before playing!\"\n  duration: \"PT11M1S\"\n  uploadDate: \"2026-01-16\"\n---\n\nポータブルMMOがついにその可能性を発揮し始めており、**2xko SteamDeck**のサポートは、2026年のオールドスクールMMOファンにとって最も話題のトピックの1つです。ソファから2xkoをプレイしたい場合、**2xko steamdeck**の実際のゲームプレイがどのように機能するかを知ることは、生のスペックよりも重要です。このガイドでは、それが今なぜ重要なのか、今日何が機能するのか、そしてプレイヤーがどのようにして最もスムーズな携帯ゲーム体験を得ているのかを説明します。\n\n## 2026年に2xkoはSteam Deckで動作しますか？\n\nコミュニティのテストとプレイヤーのフィードバックによると、2xkoはProtonを有効にしたSteamOSを介してSteam Deckでプレイ可能です。ゲームにはまだ公式の「Verified」バッジが付いていませんが、ほとんどのユーザーは基本的な構成の後、安定したセッションを報告しています。\n\nプレイヤーの経験に基づいた主要な互換性に関する注意事項：\n- Proton Experimentalは、これまでのところ最高の安定性を提供します\n- 必須の起動引数は不要\n- マイナーなUIスケーリングの調整により、読みやすさが向上\n- 大量のモンスターのプル中に時折発生するスタッター（コミュニティ報告）\n\n2xkoは重いシェーダーよりもクラシックなMMOデザインに傾いているため、**2xko steamdeck**の体験はGPU制限よりもCPUバウンドであるため、Valveの携帯ゲーム機に適しています。\n\n## パフォーマンスの期待：FPS、バッテリー、およびコントロール\n\nコミュニティのベンチマークから、プレイヤーは次のように報告しています。\n- 町やオープンゾーンで**40〜60 FPS**\n- 戦闘の多いシナリオで**30〜45 FPS**\n- デフォルト設定で**2.5〜3.5時間**のバッテリー寿命\n\n推奨されるゲーム内およびシステム調整：\n- フレームレートを40 FPSに制限します\n- SteamOSでFSRを有効にします\n- シャドウ品質を1段階下げます\n- スキルのホットキーを背面パドルにマッピングします\n\nこれらの調整により、視覚的な明瞭さを犠牲にすることなく、**2xko steamdeck**ユーザーの長時間の快適性が大幅に向上します。\n\n## Steam Deckのステップバイステップセットアップガイド\n\n初めてのSteam Deck所有者でも、簡単に始めることができます。\n\n基本的なセットアッププロセス：\n1. デスクトップモードに切り替えます\n2. Steamまたはランチャーを介して2xkoをインストールします\n3. Proton Experimentalの互換性を強制します\n4. 構成ファイルを生成するために一度起動します\n5. ゲーム内の解像度スケーリングを調整します\n\nプレイヤーの報告によると、ほとんどのクラッシュはステップ4の前に発生します。構成が正しく生成されると、安定性が著しく向上します。\n\n2xkoシステムを初めて使用する場合は、コミュニティメンバーが、リアルタイムのトラブルシューティングと他のプレイヤーが共有するSteam Deckコントローラーレイアウトについて、公式の[2xko Discordサポートハブ](https://2xkogame.com/support/discord/)に参加することを推奨することがよくあります。\n\n## 新規プレイヤーがSteam Deckで2xkoをプレイする前に知っておくべきこと\n\nこのビデオは、携帯ゲームプレイに飛び込む前に、コアメカニズムと進行状況を理解するのに役立ちます。\n\n<div style=\"position: relative; padding-bottom: 56.25%; height: 0; margin: 2rem 0; border-radius: 0.5rem; overflow: hidden;\">\n  <iframe\n    style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%;\"\n    src=\"https://www.youtube.com/embed/zIcPeOI5cIo\"\n    title=\"2xko for Beginners: Watch this before playing!\"\n    frameborder=\"0\"\n    allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\"\n    allowfullscreen\n  ></iframe>\n</div>\n\nこのビデオは、初心者の間違い、初期の進行フロー、およびUIナビゲーションに焦点を当てています。これらはすべて、ハンドヘルドでの使用に合わせてコントロールを調整する場合に特に役立ちます。\n\n## コミュニティの印象：2xkoはハンドヘルドでプレイする価値がありますか？\n\n**2xko steamdeck**ゲームプレイに関するコミュニティの感情は、概ね肯定的です。ペースの遅い、系統的なMMOを楽しんでいるプレイヤーは、ポータブル形式が制限するのではなく、没入感を高めると言います。\n\n一般的に挙げられる利点：\n- どこからでも快適にプレイ可能\n- タッチパッドフレンドリーなインベントリ管理\n- ソロクエストに最適\n\n報告された欠点（コミュニティの推測）：\n- PvPはハンドヘルドコントロールではより要求が厳しいと感じられる\n- テキストの多いメニューにはスケーリング調整が必要\n\nこれは、[PC Gamer](https://www.pcgamer.com/)のPCゲームアナリストが指摘した、より広範なハンドヘルドMMOトレンドを反映しており、ペースの遅いシステムがポータブルデバイスに最も適応します。\n\n## Steam Deckでの第一印象とビジュアルスタイル\n\nこのビデオでは、初期のゲームプレイと視覚的なトーンを紹介し、2xkoが小さな画面でどのように感じるかをリアルに示しています。\n\n<div style=\"position: relative; padding-bottom: 56.25%; height: 0; margin: 2rem 0; border-radius: 0.5rem; overflow: hidden;\">\n  <iframe\n    style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%;\"\n    src=\"https://www.youtube.com/embed/tNRlv6w7eh8\"\n    title=\"2xko MMORPG - First Impressions\"\n    frameborder=\"0\"\n    allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\"\n    allowfullscreen\n  ></iframe>\n</div>\n\nプレイヤーのフィードバックによると、ボクセルに触発されたビジュアルとクリーンなUIは、Steam Deckで驚くほど適切にスケーリングされます。\n\n## 長期的なSteam Deckプレイヤー向けの追加のヒント\n\n**2xko steamdeck**セッションに数十時間を費やす予定がある場合は、次の長期的な最適化を検討してください。\n- クラス固有のレイアウトには、コミュニティコントローラープロファイルを使用します\n- デバイスを切り替える前に、クラウドセーブを有効にします\n- 毎日プレイする場合は、オプションの[プレミアムアカウント特典](https://2xkogame.com/support/premium/)を検討してください\n\nベテランプレイヤーは、これらの小さな変更が時間の経過とともに摩擦を大幅に軽減し、特に長時間のレベリングまたはクラフトセッション中に役立つと報告しています。\n\n## FAQ：Steam Deckでの2xko\n\n**Q：2xko steamdeckは開発者によって公式にサポートされていますか？**\nA：2026年現在、公式のSteam Deck検証は確認されていませんが、コミュニティでテストされたセットアップは確実に機能します。\n\n**Q：Steam Deckの2xkoに最適なProtonバージョンは何ですか？**\nA：プレイヤーのフィードバックによると、Proton Experimentalはパフォーマンスと安定性の最適なバランスを提供します。\n\n**Q：Steam Deckでエンドゲームコンテンツを実行できますか？**\nA：はい、ただし、高強度のPvPは外部周辺機器を使用する方が快適になる可能性があるとプレイヤーは指摘しています。\n\n**Q：2xkoはハンドヘルドデバイスで初心者向けですか？**\nA：コミュニティレポートによると、特にクラシックなMMOペースを楽しんでいるソロフォーカスプレイヤーにとっては非常にアクセスしやすいです。\n\n---\n\n最新のハードウェアに適合しながら、オールドスクールデザインを尊重するポータブルMMOを探しているなら、**2xko steamdeck**のゲームプレイは2026年の最も魅力的なオプションの1つになるでしょう。\n"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1942,
+    "completion_tokens": 2023,
+    "total_tokens": 3965,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 1942,
+      "audio_tokens": 0,
+      "image_tokens": 0
+    },
+    "completion_tokens_details": {
+      "text_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0
+    },
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "input_tokens_details": null
+  }
+}

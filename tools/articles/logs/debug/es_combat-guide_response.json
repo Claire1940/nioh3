@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-20260201222449987157461Y17baJxQ",
+  "model": "gemini-2.0-flash",
+  "object": "chat.completion",
+  "created": 1769955891,
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "---\ntitle: \"Guía de Combate de Nioh 3 - ¡Domina Cada Postura y Combo!\"\ndescription: \"Descubre todo sobre la guía de combate de Nioh 3 en Nioh 3. Consejos de expertos, estrategias y guía completa actualizada en febrero de 2026.\"\nkeywords: [\"guía de combate de nioh 3\", \"nioh 3\", \"guía de nioh 3\"]\ncanonical: \"/es/combat/combat-guide/\"\ndate: \"2026-02-01\"\nvideo:\n  enabled: true\n  youtubeId: \"0sWmxmLbuFg\"\n  title: \"¡Me Convertí En El Ninja Definitivo! | Nioh 3 Juego Completo - Jugabilidad Ninja Katana Dual EP. 1 我成为了终极忍者！|仁王 3 完整版 - 忍者双刀游戏通关 EP. 1\"\n  description: \"¡Me Convertí En El Ninja Definitivo! | Nioh 3 Juego Completo - Jugabilidad Ninja Katana Dual EP. 1 我成为了终极忍者！|仁王 3 完整版 - 忍者双刀游戏通关 EP. 1\"\n  duration: \"PT34M30S\"\n  uploadDate: \"2026-01-30\"\n---\n\n## Consejos Clave para Dominar el Combate en Nioh 3\n\n- **Experimenta con tu Equipamiento**: Las armas y armaduras adecuadas impactarán significativamente tu rendimiento en combate. Por ejemplo, usar un arma rápida como una katana dual en Postura Baja te permite encadenar múltiples ataques rápidos, mientras que un arma pesada en Postura Alta te ayudará a asestar golpes devastadores.\n- **Domina Esquivar y Bloquear**: Nioh 3 recompensa a los jugadores que entienden cómo esquivar y bloquear ataques de manera efectiva. Una esquiva bien sincronizada puede permitirte reposicionarte rápidamente y atacar los puntos débiles de un enemigo.\n- **Adáptate a los Patrones del Enemigo**: Cada enemigo en Nioh 3 tiene su propio patrón de ataque, y aprender estos patrones te ayudará a identificar cuándo atacar y cuándo defender. Al observar cuidadosamente sus movimientos, puedes explotar las aberturas para realizar combos mortales.\n\n## Estrategias de Combate Avanzadas para Nioh 3\n\nPara los jugadores que buscan llevar sus habilidades de combate al siguiente nivel, aquí hay algunos consejos avanzados:\n\n1. **Cambio de Postura en Combate**: Muchos jugadores experimentados recomiendan cambiar de postura durante un combo para desconcertar a los enemigos. Por ejemplo, comienza en Postura Alta para romper la guardia de un enemigo, luego cambia a Postura Baja para terminar con golpes rápidos y precisos.\n2. **Usa tus Habilidades Sabiamente**: Las habilidades, como las de los estilos Ninja y Samurái, pueden mejorar significativamente tu combate. Los jugadores pueden usarlos para aplicar mejoras o crear aberturas en el combate. Por ejemplo, usar una habilidad de sigilo puede permitirte asestar un ataque inicial antes de que tu enemigo se dé cuenta de que estás allí.\n3. **Comprende las Debilidades del Enemigo**: Ciertos enemigos son débiles a tipos específicos de ataques. Experimenta con armas elementales o usa habilidades que apunten a los puntos débiles de un enemigo para obtener el máximo daño.\n\nPara obtener más detalles sobre el estilo Ninja y sus habilidades de combate, consulta nuestra [guía de Estilo Ninja](https://nioh3.org/combat/ninja-style) o profundiza en el árbol de habilidades de Nioh 3 en nuestra [guía de Habilidades](https://nioh3.org/combat/skills).\n"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 991,
+    "completion_tokens": 827,
+    "total_tokens": 1818,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 991,
+      "audio_tokens": 0,
+      "image_tokens": 0
+    },
+    "completion_tokens_details": {
+      "text_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0
+    },
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "input_tokens_details": null
+  }
+}

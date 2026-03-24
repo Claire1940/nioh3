@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-20260201222450159291169WHQcQPlS",
+  "model": "gemini-2.0-flash",
+  "object": "chat.completion",
+  "created": 1769955891,
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "---\ntitle: \"Nioh 3 전투 가이드 - 모든 자세와 콤보를 마스터하세요!\"\ndescription: \"Nioh 3의 전투 가이드에 대한 모든 것을 알아보세요. 전문가 팁, 전략 및 완벽한 가이드가 2026년 2월에 업데이트되었습니다.\"\nkeywords: [\"nioh 3 전투 가이드\", \"nioh 3\", \"nioh 3 가이드\"]\ncanonical: \"/ko/combat/combat-guide/\"\ndate: \"2026-02-01\"\nvideo:\n  enabled: true\n  youtubeId: \"0sWmxmLbuFg\"\n  title: \"I Became The Ultimate Ninja! | Nioh 3 Full Game - Ninja Dual Katana Gameplay Playthrough EP. 1我成为了终极忍者！|仁王 3 完整版 - 忍者双刀游戏通关 EP. 1\"\n  description: \"I Became The Ultimate Ninja! | Nioh 3 Full Game - Ninja Dual Katana Gameplay Playthrough EP. 1我成为了终极忍者！|仁王 3 完整版 - 忍者双刀游戏通关 EP. 1\"\n  duration: \"PT34M30S\"\n  uploadDate: \"2026-01-30\"\n---\n\n## Nioh 3 전투 마스터를 위한 핵심 팁\n\n- **장비 구성을 실험해보세요**: 올바른 무기와 방어구는 전투 성능에 큰 영향을 미칩니다. 예를 들어, 하단 자세에서 이도와 같은 빠른 무기를 사용하면 여러 번의 빠른 공격을 연쇄적으로 수행할 수 있으며, 상단 자세에서 무거운 무기를 사용하면 파괴적인 타격을 가할 수 있습니다.\n- **회피 및 방어를 마스터하세요**: Nioh 3는 회피와 방어를 효과적으로 사용하는 플레이어에게 보상을 제공합니다. 타이밍이 좋은 회피는 적의 약점을 빠르게 재정비하고 공격할 수 있게 해줍니다.\n- **적의 패턴에 적응하세요**: Nioh 3의 모든 적은 고유한 공격 패턴을 가지고 있으며, 이러한 패턴을 학습하면 언제 공격하고 언제 방어해야 하는지 파악하는 데 도움이 됩니다. 적의 움직임을 주의 깊게 관찰하면 치명적인 콤보를 위한 기회를 포착할 수 있습니다.\n\n## Nioh 3 고급 전투 전략\n\n전투 기술을 한 단계 더 발전시키려는 플레이어를 위해 몇 가지 고급 팁을 소개합니다.\n\n1. **전투 중 자세 전환**: 많은 숙련된 플레이어는 적을 혼란시키기 위해 콤보 중에 자세를 전환하는 것을 권장합니다. 예를 들어, 상단 자세로 시작하여 적의 방어를 무너뜨린 다음 하단 자세로 전환하여 빠르고 정확한 공격으로 마무리합니다.\n2. **기술을 현명하게 사용하세요**: 닌자와 사무라이 스타일의 기술과 같은 기술은 전투를 크게 향상시킬 수 있습니다. 플레이어는 이를 사용하여 버프를 적용하거나 전투에서 기회를 만들 수 있습니다. 예를 들어, 은신 기술을 사용하면 적이 알아차리기도 전에 선제 공격을 가할 수 있습니다.\n3. **적의 약점을 파악하세요**: 특정 적은 특정 유형의 공격에 약합니다. 원소 무기를 실험하거나 적의 약점을 목표로 하는 기술을 사용하여 최대 데미지를 입히세요.\n\n닌자 스타일과 전투 기술에 대한 자세한 내용은 [닌자 스타일 가이드](https://nioh3.org/combat/ninja-style)를 확인하거나 [스킬 가이드](https://nioh3.org/combat/skills)에서 Nioh 3의 스킬 트리를 자세히 살펴보세요.\n"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 965,
+    "completion_tokens": 818,
+    "total_tokens": 1783,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 965,
+      "audio_tokens": 0,
+      "image_tokens": 0
+    },
+    "completion_tokens_details": {
+      "text_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0
+    },
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "input_tokens_details": null
+  }
+}

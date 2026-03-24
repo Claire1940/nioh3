@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-20260201222535421972515G6wOAY0p",
+  "model": "gemini-2.0-flash",
+  "object": "chat.completion",
+  "created": 1769955936,
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "---\ntitle: \"Nioh 3 PS5 Demo Download! Alles, was du wissen musst!\"\ndescription: \"Entdecke alles über die Nioh 3 Demo für PS5 in Nioh 3. Experten-Tipps, Strategien und ein vollständiger Leitfaden, aktualisiert im Februar 2026.\"\nkeywords: [\"nioh 3 demo ps5\", \"nioh 3\", \"nioh 3 leitfaden\"]\ncanonical: \"/de/platforms/demo-ps5/\"\ndate: \"2026-02-01\"\nvideo:\n  enabled: true\n  youtubeId: \"17838xuoR_4\"\n  title: \"Nioh 3 Demo Dropped! (Jakotsu-Baba No Damage Boss Fight)仁王 3 试玩版发布！（蛇骨巴场无伤害 Boss 战）\"\n  description: \"Nioh 3 Demo Dropped! (Jakotsu-Baba No Damage Boss Fight)仁王 3 试玩版发布！（蛇骨巴场无伤害 Boss 战）\"\n  duration: \"PT2M3S\"\n  uploadDate: \"2026-01-30\"\n---\n\n### Was du von der Nioh 3 PS5 Demo erwarten kannst\n\nDie **Nioh 3 PS5 Demo** bietet einen frühen Einblick in einige der wichtigsten Funktionen, die die Vollversion des Spiels ausmachen werden. Hier ist eine Aufschlüsselung dessen, was du erwarten kannst, wenn du die Demo herunterlädst und spielst:\n\n#### Atemberaubende Grafik und Leistung\n\nEiner der am meisten diskutierten Aspekte der **Nioh 3 PS5 Demo** ist ihre beeindruckende Grafik. Das Spiel läuft flüssig in 4K, und die verbesserten Texturen und Lichteffekte erwecken die Samurai- und Yokai-Welt wirklich zum Leben. Die leistungsstarke Hardware der PS5 sorgt dafür, dass sich das Spiel während des Kampfes flüssig anfühlt, selbst während intensiver Schlachten mit mehreren Gegnern auf dem Bildschirm.\n\n#### Neue Kampfmechaniken\n\nFür Spieler, die mit der Nioh-Franchise vertraut sind, führt der Kampf in **Nioh 3** einige aufregende neue Mechaniken ein. Die Hinzufügung von schnelleren Haltungen und verfeinerten Pariersystemen sorgt dafür, dass sich der Kampf schneller und lohnender anfühlt. In der Demo können die Spieler auch mit neuen Waffen experimentieren, darunter das mächtige **Doppel-Katana** und das **Odachi**. Das Meistern dieser Waffen ist der Schlüssel, um in der Demo voranzukommen und einen Eindruck von der Tiefe des Spiels zu bekommen.\n\n- **Doppel-Katana**: Schneller, aggressiver Kampfstil.\n- **Odachi**: Langsamer, aber unglaublich mächtig mit Fernkampfangriffen.\n\n#### Bosskämpfe und herausfordernde Kämpfe\n\nGetreu der Nioh-Serie bietet die Demo mehrere schwere Bosskämpfe, die selbst erfahrene Spieler herausfordern werden. **Jakotsu-baba**, einer der wichtigsten Bosse der Demo, bietet einen ausgezeichneten Test deiner Fähigkeiten. Der Kampf ist schwierig, aber es ist auch unglaublich lohnend, wenn du sie endlich besiegst. Viele Spieler haben ihre Strategien in Foren geteilt, wobei einige empfehlen, die Kunst des Abwehrens zu meistern, um Schaden zu vermeiden.\n\n#### Fortschritt übertragen\n\nEin weiteres spannendes Feature der **Nioh 3 PS5 Demo** ist, dass der in der Demo erzielte Fortschritt nach der Veröffentlichung in das vollständige Spiel übernommen werden kann. Das bedeutet, dass alle Errungenschaften, freigeschalteten Waffen oder Verbesserungen, die du verdient hast, in der endgültigen Version des Spiels erhalten bleiben.\n\n### Community-Feedback: Was sagen die Spieler?\n\nBasierend auf dem Feedback der Spieler wurde die **Nioh 3 PS5 Demo** sehr positiv aufgenommen. Viele Spieler loben die verbesserte Leistung und die Kampfmechaniken, die das Spiel schneller und reaktionsfreudiger machen als frühere Teile der Serie. Die Spieler haben sich auch zur Schwierigkeit der Demo geäußert und festgestellt, dass sie den Wurzeln der Franchise treu bleibt, indem sie eine herausfordernde Erfahrung bietet, die Geduld und Geschick erfordert.\n\n- **Schwierigkeitsgrad:** Die Spieler sind sich einig, dass die Demo schwer, aber fair ist, insbesondere mit den neuen Kampfmechaniken.\n- **Grafik:** Die Leistung der PS5 wird voll ausgeschöpft, mit atemberaubender Grafik und flüssigen Animationen, die das Gameplay immersiv machen.\n\n### Zusätzliche Tipps zum Spielen der Demo\n\nUm das Beste aus der **Nioh 3 Demo PS5** herauszuholen, hier einige Tipps von erfahrenen Spielern:\n\n- **Meistere das Pariersystem**: Parieren ist unerlässlich, um Schaden zu vermeiden und sich einen schnellen Vorteil gegenüber deinen Feinden zu verschaffen.\n- **Experimentiere mit Waffen**: Bleibe nicht nur bei einer Waffe. Probiere die verschiedenen Kampfstile aus, um herauszufinden, was für dich am besten funktioniert.\n- **Nutze die Umgebung**: Einige Boss-Arenen haben Umweltrisiken. Nutze sie zu deinem Vorteil!\n\n### Warum du dich auf Nioh 3 freuen solltest\n\nDie **Nioh 3 PS5 Demo** bietet einen aufregenden Einblick in die endgültige Version des Spiels. Mit ihrer verbesserten Leistung, den neuen Kampfmechaniken und den aufregenden Bosskämpfen ist die Demo nur der Anfang. Wenn du ein Fan von Action-RPGs und herausfordernden Kämpfen bist, wird **Nioh 3** voraussichtlich ein Muss für 2026 sein.\n\nBereit einzutauchen? Lade die Demo noch heute herunter und erlebe die Action hautnah!\n"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1328,
+    "completion_tokens": 1295,
+    "total_tokens": 2623,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 1328,
+      "audio_tokens": 0,
+      "image_tokens": 0
+    },
+    "completion_tokens_details": {
+      "text_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0
+    },
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "input_tokens_details": null
+  }
+}

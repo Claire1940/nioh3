@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-20260131215710573974398o27ELXXf",
+  "model": "gemini-2.0-flash",
+  "object": "chat.completion",
+  "created": 1769867831,
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "---\ntitle: \"Visão Geral do Jogo Hellmart: Tudo o Que Você Precisa Saber Antes de Jogar\"\ndescription: \"Aprenda tudo o que você precisa saber sobre o jogo Hellmart! Das mecânicas de jogo a dicas e truques, prepare-se para uma aventura arrepiante. Atualizado em janeiro de 2026.\"\nkeywords: [\"jogo Hellmart\", \"jogabilidade de Hellmart\", \"dicas de Hellmart\", \"visão geral de Hellmart\", \"jogo de terror\", \"simulador de supermercado\", \"guia de Hellmart\"]\ncanonical: \"/pt/game-info/overview\"\ndate: \"2026-01-31\"\n---\n\nHELLMART é uma nova e aterrorizante reviravolta no gênero de simulador de supermercado, oferecendo aos jogadores uma mistura única de terror e varejo. Neste guia abrangente, vamos nos aprofundar nas mecânicas principais, no que torna HELLMART tão especial e oferecer algumas dicas para ajudá-lo a sobreviver aos seus turnos noturnos neste supermercado perturbador. Seja você um jogador experiente de jogos de terror ou um novato procurando sua próxima emoção, este jogo certamente o manterá na ponta da cadeira.\n\n### Introdução ao HELLMART\n\nHELLMART pega o conceito de um supermercado comum e o inverte com um elemento de terror assustador. Situado em um supermercado amaldiçoado, os jogadores devem assumir o papel de um funcionário noturno, navegando pelos corredores misteriosos e lidando com clientes estranhos que parecem mais sobrenaturais do que humanos. O jogo é mais do que apenas uma simulação de varejo típica — é uma experiência de terror atmosférica.\n\nPor que HELLMART é importante tanto para os fãs de terror quanto para os entusiastas de simuladores? Porque ele combina com sucesso dois gêneros distintos: simulação de varejo e terror, oferecendo uma experiência de jogo diferente de qualquer outra. Se você está intrigado com acontecimentos sobrenaturais e o terror de trabalhar em um ambiente onde o perigo espreita em cada esquina, HELLMART é um jogo obrigatório.\n\n---\n\n### Como Funciona a Jogabilidade de HELLMART?\n\nEm HELLMART, você joga como um trabalhador do turno da noite em um supermercado amaldiçoado, e seu objetivo é sobreviver por sete noites. Enquanto você trabalha, você encontrará eventos cada vez mais bizarros e aterrorizantes que tornam este supermercado longe do normal.\n\n- **Mecânicas de Sobrevivência**: Você precisará gerenciar as prateleiras da loja, atender os clientes e garantir que tudo funcione sem problemas. No entanto, acontecimentos estranhos — incluindo clientes assustadores e sons perturbadores — tentarão distraí-lo.\n\n- **Elementos de Terror**: O jogo apresenta várias ameaças sobrenaturais, com sustos repentinos e encontros assustadores que aumentam à medida que você avança pelas noites. A tensão aumenta, mantendo você alerta.\n\n- **Interação com o Cliente**: Os clientes não são o que parecem. Alguns deles podem parecer normais, mas outros podem ser entidades malévolas à espreita disfarçadas. Gerenciar suas interações com esses clientes estranhos é fundamental para a sobrevivência.\n\nAo final do seu turno, você estará esperando que as portas se fechem para a noite, mas as forças sobrenaturais não tornam isso tão fácil.\n\n---\n\n### Principais Características do HELLMART\n\nHELLMART oferece uma experiência imersiva com estes recursos de destaque:\n\n- **Atmosfera de Pesadelo**: Da iluminação fraca à trilha sonora misteriosa, a atmosfera define o tom para o medo e a tensão.\n- **Cenário Único de Supermercado**: Ao contrário dos simuladores de varejo tradicionais, o supermercado de HELLMART é assombrado, e você enfrentará criaturas bizarras e de pesadelo enquanto gerencia a loja.\n- **Dificuldade Progressiva**: À medida que as noites progridem, os desafios do jogo se tornam mais difíceis. Você terá que ser rápido e usar sua inteligência para sobreviver.\n- **Múltiplos Finais**: Suas escolhas ao longo do jogo levam a diferentes finais, dependendo de quão bem você lida com o caos e as forças sobrenaturais.\n\n---\n\n### Sobrevivendo aos Seus Turnos: Dicas e Truques\n\n1. **Fique Vigilante**: Esteja sempre atento ao comportamento incomum dos clientes. Preste muita atenção às suas ações; alguns podem ter motivos ocultos.\n2. **Gerencie Seu Tempo de Forma Eficiente**: Acompanhe seus deveres e priorize suas tarefas. Embora manter a loja seja importante, não se esqueça de ficar de olho em acontecimentos estranhos.\n3. **Use o Layout da Loja a Seu Favor**: Aprenda o layout de HELLMART para evitar armadilhas e encontrar lugares seguros para se esconder quando as coisas ficarem muito intensas.\n4. **Mantenha a Calma Sob Pressão**: O jogo pode ser opressor, especialmente com todas as ocorrências estranhas. Manter a calma o ajudará a tomar decisões melhores e evitar o pânico.\n\n---\n\n### Por Que Você Deveria Jogar HELLMART\n\nHELLMART não é apenas mais um jogo de terror — é uma experiência completa que desafia seus instintos de varejo e sobrevivência. Se você ama simuladores de varejo, mas anseia por uma experiência mais intensa e cheia de suspense, este jogo é perfeito para você. Os elementos de terror o mantêm envolvido, e a profundidade do jogo garante que cada turno da noite pareça novo e desafiador.\n\nSe você é fã de jogos assustadores e atmosféricos ou gosta de experimentar simuladores peculiares, HELLMART é um que você não vai querer perder.\n\n---\n\nPara obter informações mais detalhadas, consulte o [Wiki de HELLMART](https://hellmartgame.org/game-info/wiki) para obter mecânicas de jogo detalhadas ou visite a página de [Atualizações de HELLMART](https://hellmartgame.org/game-info/updates) para se manter atualizado sobre novos recursos e patches.\n\n---\n"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1352,
+    "completion_tokens": 1372,
+    "total_tokens": 2724,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 1352,
+      "audio_tokens": 0,
+      "image_tokens": 0
+    },
+    "completion_tokens_details": {
+      "text_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0
+    },
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "input_tokens_details": null
+  }
+}

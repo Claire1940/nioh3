@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-202601230043359097634237rZexeiG",
+  "model": "gemini-2.0-flash",
+  "object": "chat.completion",
+  "created": 1769100217,
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "---\ntitle: \"2xko Çıkış Tarihi ve Yayın Bilgileri - 2xko Ne Zaman Çıkıyor?\"\ndescription: \"Resmi 2xko çıkış tarihini, ön sipariş bilgilerini ve 2xko sürümü hakkında bilmeniz gereken her şeyi öğrenin. Bu çok beklenen ücretsiz 2'ye 2 dövüş oyunu hakkında güncel kalın!\"\nkeywords: [\"2xko çıkış tarihi\", \"2xko yayın tarihi\", \"2xko ne zaman çıkıyor\", \"2xko ön sipariş\", \"2xko resmi çıkış\", \"2xko oyun sürümü\"]\ncanonical: \"/tr/updates/launch-date\"\ndate: \"2026-01-22\"\nvideo:\n  enabled: true\n  youtubeId: \"rab8OcDP_FQ\"\n  title: \"2XKO Kimler İçin Yapıldı?\"\n  description: \"2XKO Kimler İçin Yapıldı?\"\n  duration: \"PT12M16S\"\n  uploadDate: \"2026-01-08\"\n---\n\nBüyük merakla beklenen **2xko çıkış tarihi** nihayet açıklandı ve dövüş oyunu topluluğu heyecanla çalkalanıyor! Riot Games'in en son ücretsiz 2'ye 2 dövüş oyununa elinizi atmak için bekliyorsanız, bu kılavuz **2xko çıkış tarihi**, ön sipariş ayrıntıları ve yayın gününde neler beklemeniz gerektiği hakkında bilmeniz gereken her şeyi kapsar.\n\n## Resmi 2xko Çıkış Tarihi\n\n**2xko artık açık betada yayında!** Oyun resmi olarak yayınlandı ve birden fazla platformda ücretsiz olarak indirilip oynanabilir. Resmi sürüm, Riot Games'in oynanışı, dengeyi ve genel deneyimi iyileştirmesine yardımcı olan uzun bir kapalı beta test döneminin ardından geldi.\n\n### Yayın Zaman Çizelgesi\n\n- **Kapalı Beta Yayını:** Ağustos 2024\n- **Açık Beta Yayını:** Aralık 2024\n- **Tam Sürüm Durumu:** Mevcut (Şimdi Mevcut)\n\nKapalı betadan açık betaya geçiş, çok daha büyük bir oyuncu tabanının 2xko'nun benzersiz 2'ye 2 dövüş oyunu mekaniklerini deneyimlemesine olanak tanıyan önemli bir kilometre taşını işaret etti.\n\n## Şu Anda 2xko Nasıl Oynanır?\n\n2xko resmi olarak yayınlandığı için hemen oynamaya başlayabilirsiniz! Oyun şu platformlarda mevcuttur:\n\n- Resmi 2xko başlatıcısı aracılığıyla **PC (Windows ve Mac)**\n- **PlayStation 5** (Konsol sürümü)\n- Riot'un oyunlarını destekleyen **Bulut Oyun** hizmetleri\n\n### Yayın Gününde Başlarken\n\n2xko veya genel olarak dövüş oyunlarında yeniyseniz, ilk gününüzde şunları bekleyebilirsiniz:\n\n**Karakter Seçimi**\nOyun, her biri benzersiz mekaniklere ve oyun stillerine sahip çeşitli şampiyonlardan oluşan bir kadroya sahiptir. İster hızlı saldırı karakterlerini ister mesafe kontrolü yapanları tercih edin, her dövüş oyunu meraklısı için birileri var.\n\n**Yeni Başlayanlara Uygun Özellikler**\n- Temel mekanikleri açıklayan öğretici modu\n- Kombolarda ustalaşmak için pratik modları\n- Sıralamalı ve sıradan eşleştirme\n- Takım tabanlı çok oyunculu deneyimler\n\n**Sezonluk İçerik**\n2xko, diğer Riot oyunlarına benzer şekilde, oyun ve satın alma yoluyla elde edilebilen kozmetik ödüller ve özel kozmetikler içeren sezonluk bir savaş bileti sistemine sahiptir.\n\n## Ön Sipariş ve Yayın Bonusları\n\nKapalı beta'ya katılan veya lansmandan önce ön kayıt yaptıran oyuncular özel ödüller aldı:\n\n- Özel kozmetik görünümler\n- Savaş bileti ilerleme bonusları\n- Sınırlı sayıda üretilmiş unvanlar ve kozmetikler\n- Oyun içi para birimi\n\nErken erişim dönemini kaçırdıysanız endişelenmeyin; oyun oynaması ücretsizdir, bu nedenle herhangi bir ilk yatırım yapmadan istediğiniz zaman oyuna atlayabilirsiniz.\n\n## 2xko'yu Özel Kılan Ne?\n\n**2xko**, Street Fighter veya Tekken gibi geleneksel bir 1'e 1 dövüş oyunu değildir. Bunun yerine, aşağıdaki durumlarda yoğun 2'ye 2 takım tabanlı dövüşlere sahiptir:\n\n- Takım üyeleri arasındaki sinerji çok önemlidir\n- Asistler ve takım mekanikleri stratejik derinlik katar\n- Hem rekabetçi hem de sıradan oyuncuların net ilerleme yolları vardır\n- Platformlar arası oyun ve ilerleme mevcuttur\n\n## Yayın Sonrası İçerik ve Güncellemeler\n\nResmi lansmanın ardından Riot Games, aşağıdakiler dahil olmak üzere düzenli güncellemeler yapmayı taahhüt etti:\n\n- **Yeni Şampiyonlar:** Düzenli karakter kadrosu eklemeleri\n- **Sezonluk Güncellemeler:** Her sezon yeni denge değişiklikleri ve özellikler\n- **Rekabetçi Sezonlar:** Sezonluk ödüllerle düzenli sıralamalı sezonlar\n- **Sınırlı Süreli Etkinlikler:** Benzersiz kozmetikler ve zorluklar getiren özel etkinlikler\n\n## Sistem Gereksinimleri\n\n### Minimum Gereksinimler\n- **İşletim Sistemi:** Windows 10 64-bit veya Mac OS X 10.11+\n- **İşlemci:** Intel i3 veya eşdeğeri\n- **RAM:** 4 GB\n- **Grafikler:** NVIDIA GTX 970 veya AMD eşdeğeri\n- **Depolama:** 25 GB kullanılabilir alan\n\n### Önerilen Gereksinimler\n- **İşletim Sistemi:** Windows 11 64-bit veya en son Mac OS\n- **İşlemci:** Intel i7 veya eşdeğeri\n- **RAM:** 8 GB+\n- **Grafikler:** NVIDIA RTX 2070 veya AMD eşdeğeri\n- **Depolama:** 30 GB+ kullanılabilir alana sahip SSD\n\n## 2xko Yayını Hakkında SSS\n\n**2xko oynaması ücretsiz mi?**\nEvet! 2xko'yu indirmek ve oynamak tamamen ücretsizdir. İsteğe bağlı kozmetik satın alımlar oyun oynamayı etkilemez.\n\n**2xko'yu konsolda oynayabilir miyim?**\nEvet, 2xko, platformlar arası oyun desteğiyle PlayStation 5 ve Windows PC'de mevcuttur.\n\n**Yayından sonra oyuncu tabanı nasıl?**\nOyuncu tabanı, hem sıradan hem de rekabetçi toplulukların gelişmesiyle istikrarlı bir şekilde büyümeye devam ediyor.\n\n**Sıralamalı ligler var mı?**\nEvet, 2xko, rekabetçi oyuncular için birden fazla rütbe katmanına sahip sıralamalı bir eşleştirme sistemine sahiptir.\n"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1456,
+    "completion_tokens": 1612,
+    "total_tokens": 3068,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 1456,
+      "audio_tokens": 0,
+      "image_tokens": 0
+    },
+    "completion_tokens_details": {
+      "text_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0
+    },
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "input_tokens_details": null
+  }
+}

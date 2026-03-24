@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-20260115212842512143898o1kpnpP3",
+  "model": "gemini-2.0-flash",
+  "object": "chat.completion",
+  "created": 1768483724,
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "---\ntitle: \"하이테일이 Mac에서 실행될까요? 공식 macOS 지원 확인, Apple Silicon 성능 상세 정보\"\ndescription: \"하이테일이 Mac에서 실행되는지, 최신 2026 macOS 지원 업데이트, Apple Silicon 성능 인사이트, 그리고 Mac 플레이어가 지금 준비해야 할 사항을 알아보세요.\"\nkeywords: [\"하이테일 Mac에서 실행\", \"하이테일 Mac 지원\", \"하이테일 macOS\", \"하이테일 Apple Silicon\", \"하이테일 시스템 요구 사항\"]\ncanonical: \"/ko/platforms/mac-support\"\ndate: \"2026-01-15\"\nvideo:\n  enabled: true\n  youtubeId: \"SC6FvZ7DqdM\"\n  title: \"당신의 PC로 하이테일을 실행할 수 있을까요?\"\n  description: \"당신의 PC로 하이테일을 실행할 수 있을까요?\"\n  duration: \"PT6M11S\"\n  uploadDate: \"2025-12-16\"\n---\n\nMac 게이머들은 수년 동안 한 가지 큰 질문을 던져왔습니다. **하이테일이 Mac에서 실행될까요**, 아니면 또 다른 PC 전용 샌드박스 어드벤처일까요? 이는 하이테일의 창의적인 모딩 도구, 멀티플레이어 중심, 그리고 긴 개발 주기가 Apple 사용자들 사이에서 큰 기대를 불러일으켰기 때문에 중요합니다. 이 가이드에서는 확인된 macOS 지원, Apple Silicon이 성능에 미치는 영향, 그리고 **하이테일이 Mac에서 실행될까요**가 가장 큰 관심사라면 Mac을 준비하는 방법에 대해 자세히 알아봅니다.\n\n## 공식 macOS 지원: 지금까지 확인된 내용\n\n좋은 소식은 하이테일 개발자들이 Windows와 함께 macOS를 지원되는 플랫폼으로 공개적으로 인정했다는 것입니다. 초기에는 PC에 더 집중했지만, macOS는 단순한 뒷전이 아닌 공식 로드맵의 일부로 남아 있습니다.\n\n개발자 성명과 커뮤니티 요약을 통해 다음과 같이 확신할 수 있습니다.\n- macOS는 에뮬레이션을 통한 해결 방법이 아닌 네이티브 플랫폼으로 계획되었습니다.\n- 게임 엔진은 크로스 플랫폼 배포를 염두에 두고 구축되었습니다.\n- PC와 Mac 간의 기능 동등성은 명시된 목표이지만, 시기는 다를 수 있습니다.\n\n이 확인만으로도 **하이테일이 Mac에서 실행될까요**라는 핵심 질문에 대한 답이 되지만, 성능 및 호환성 세부 정보도 그만큼 중요합니다.\n\n## Apple Silicon (M1–M3) 성능 기대치\n\nApple이 Intel 프로세서에서 Apple Silicon으로 전환하면서 Mac 게임 환경이 재편되었습니다. 하이테일의 경우, 이러한 변화가 실제로 이점이 될 수 있습니다.\n\n커뮤니티 추측 및 유사한 샌드박스 타이틀을 기반으로:\n- Apple Silicon은 시뮬레이션 집약적인 게임에 이상적인 강력한 단일 코어 성능을 제공합니다.\n- 네이티브 ARM 빌드는 일반적으로 Rosetta로 변환된 버전보다 성능이 뛰어납니다.\n- 통합 메모리는 자산 스트리밍 병목 현상을 줄일 수 있습니다.\n\n그러나 이것을 최종 벤치마크가 아닌 **커뮤니티 기대치**로 명확하게 표시하는 것이 중요합니다. 다른 최신 게임의 플레이어 피드백에 따르면 M1 및 최신 Mac은 적절하게 최적화되면 종종 중급 게이밍 랩톱과 일치하거나 능가합니다. 하이테일이 완전히 네이티브 Apple Silicon 빌드로 출시될지는 아직 알 수 없지만, 징조는 유망합니다.\n\n## macOS 시스템 요구 사항 및 호환성\n\n최종 사양이 확정되지는 않았지만, 예상 요구 사항을 검토하여 미리 준비할 수 있습니다. Mac 하드웨어를 PC 기준선과 비교하는 것이 특히 유용합니다.\n\n자세한 분석은 다음에서 공식 스타일 개요를 참조하십시오.  \n[하이테일 시스템 요구 사항 페이지](https://hytale-game.wiki/platforms/system-requirements/)에는 예상되는 CPU, GPU 및 메모리 계층이 간략하게 설명되어 있습니다.\n\nMac 사용자를 위한 일반적인 지침:\n- 모드 또는 멀티플레이어 플레이에는 16GB RAM을 강력히 권장합니다.\n- M1 Pro 이상을 탑재한 Apple Silicon Mac은 더 높은 설정을 처리해야 합니다.\n- 구형 Intel Mac은 대규모 서버 또는 무거운 모드로 어려움을 겪을 수 있습니다.\n\nmacOS와 Windows 빌드를 비교하는 방법이 궁금하다면  \n[하이테일 PC 버전 개요](https://hytale-game.wiki/platforms/pc-version/)에서 유용한 대조를 제공합니다.\n\n## 당신의 Mac으로 실제로 하이테일을 실행할 수 있을까요?\n\n**하이테일이 Mac에서 실행될까요**라고 묻는 많은 플레이어들은 실제로 자신의 현재 장비로 충분한지 알고 싶어합니다. 성능은 OS 지원 이상의 문제이며, 하드웨어 균형에 관한 것입니다.\n\n이 비디오는 예상되는 성능 요구 사항과 초기 기술 분석을 기반으로 시스템이 하이테일을 처리할 수 있는지 여부를 평가하는 데 특히 중점을 둡니다.\n\n<div style=\"position: relative; padding-bottom: 56.25%; height: 0; margin: 2rem 0; border-radius: 0.5rem; overflow: hidden;\">\n  <iframe\n    style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%;\"\n    src=\"https://www.youtube.com/embed/SC6FvZ7DqdM\"\n    title=\"당신의 PC로 하이테일을 실행할 수 있을까요?\"\n    frameborder=\"0\"\n    allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\"\n    allowfullscreen\n  ></iframe>\n</div>\n\n비디오는 PC 하드웨어를 대상으로 하지만, Mac 사용자는 GPU 클래스, RAM 및 CPU 성능 등가물을 비교하여 여전히 논리를 적용할 수 있습니다.\n\n## 모드, 서버 및 macOS 제한 사항\n\n하이테일의 가장 큰 매력 중 하나는 모딩 생태계이지만, 이는 Mac 사용자가 주의해야 할 부분이기도 합니다.\n\n커뮤니티 보고서에 따르면:\n- 대부분의 Java 또는 엔진 수준 모드는 크로스 플랫폼으로 작동해야 합니다.\n- 플랫폼별 바이너리에 의존하는 모드는 macOS에서 나중에 출시될 수 있습니다.\n- 전용 서버는 macOS를 지원할 것으로 예상되지만, 대부분은 Linux에서 실행됩니다.\n\n이것은 **하이테일이 Mac에서 실행될까요**에 대한 답을 바꾸지는 않지만, 출시 당일의 기대치에 영향을 미칩니다. 역사적으로 Mac 플레이어는 모드 제작자가 적응함에 따라 출시 후 빠른 따라잡기를 보입니다.\n\n## 하이테일이 최신 Mac 게임 환경에 적합한 이유\n\nMac 게임은 크게 개선되었으며, 더 많은 개발자가 Apple의 성장하는 플레이어 기반을 인식하고 있습니다.  \n[크로스 플랫폼 릴리스에 대한 PC Gamer의 보도](https://www.pcgamer.com/)와 같은 주요 매체에서는 야심찬 타이틀에 대한 네이티브 macOS 지원이 더 이상 드물지 않다는 점을 강조합니다.\n\n하이테일은 다음의 이점을 누릴 수 있습니다.\n- Apple Silicon의 부상을 포괄하는 긴 개발 주기\n- 레거시 미들웨어가 아닌 사용자 정의 엔진\n- 모든 플랫폼에서 제작자를 지원하기 위한 강력한 인센티브\n\n이러한 요소를 종합적으로 고려하면 **하이테일이 Mac에서 실행될까요**는 더 이상 \"어쩌면\"이 아니라 시기 및 최적화에 대한 질문임을 알 수 있습니다.\n\n## FAQ: Mac에서의 하이테일\n\n**Q: 하이테일이 출시 시 Mac에서 실행될까요?**  \nA: macOS 지원은 공식적으로 계획되었지만, Windows와 비교하여 정확한 출시 시기는 다를 수 있습니다.\n\n**Q: 하이테일이 Apple Silicon Mac에서 기본적으로 실행될까요?**  \nA: 이것은 완전히 확인되지는 않았지만, 커뮤니티 기대치는 네이티브 Apple Silicon 지원이 가능성이 높다는 것을 시사합니다.\n\n**Q: 모드가 macOS에서 동일하게 작동할까요?**  \nA: 대부분의 모드는 크로스 플랫폼이어야 하지만, 기술적 종속성에 따라 일부는 나중에 도착할 수 있습니다.\n\n**Q: 그렇다면 하이테일은 장기적인 지원을 위해 Mac에서 실행될까요?**  \nA: 예. 개발자 성명은 macOS가 임시 포트가 아닌 장기적인 플랫폼 전략의 일부임을 나타냅니다.\n\n하이테일을 기다리는 Mac 사용자라면 전망이 그 어느 때보다 좋습니다.\n"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1753,
+    "completion_tokens": 1953,
+    "total_tokens": 3706,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 1753,
+      "audio_tokens": 0,
+      "image_tokens": 0
+    },
+    "completion_tokens_details": {
+      "text_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0
+    },
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "input_tokens_details": null
+  }
+}

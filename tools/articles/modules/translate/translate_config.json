@@ -1,0 +1,37 @@
+{
+  "api_key": "sk-yLqZg8MPVFdZtepizamKefkyECaTS0ZJ6FAR5OwVXcO44WaA",
+  "api_base_url": "https://api.apimart.ai/v1/chat/completions",
+  "model": "gemini-2.0-flash",
+  "temperature": 0.7,
+  "max_tokens": 12288,
+  "timeout": 900,
+  "retry_attempts": 2,
+  "retry_delay": 3,
+
+  "languages": ["ru", "ja", "es", "pt", "de", "fr", "ko"],
+  "default_language": "en",
+  "output_dir": "src/content/",
+
+  "game_names": {
+    "en": "Nioh 3",
+    "ru": "Nioh 3",
+    "ja": "仁王３",
+    "es": "Nioh 3",
+    "pt": "Nioh 3",
+    "de": "Nioh 3",
+    "fr": "Nioh 3",
+    "ko": "Nioh 3"
+  },
+
+  "lang_names": {
+    "ru": "Russian",
+    "ja": "Japanese",
+    "es": "Spanish (Latin America)",
+    "pt": "Portuguese (Brazil)",
+    "de": "German",
+    "fr": "French",
+    "ko": "Korean"
+  },
+
+  "target_locales": ["ru", "ja", "es", "pt", "de", "fr", "ko"]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-20260131215748823439379M5BUgSNC",
+  "model": "gemini-2.0-flash",
+  "object": "chat.completion",
+  "created": 1769867870,
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "---\ntitle: \"HELLMART en Steam Deck: Guía de Rendimiento y Configuración Óptima\"\ndescription: \"Juega HELLMART en Steam Deck con un rendimiento óptimo. Actualizado en enero de 2026 con guía de configuración y consejos de rendimiento.\"\nkeywords: [\"hellmart steam deck\", \"rendimiento Steam Deck\", \"juegos portátiles\", \"configuración Hellmart\", \"guía de optimización\"]\ncanonical: \"https://hellmartgame.org/es/technical/steam-deck\"\ndate: \"2026-01-31\"\nvideo:\n  enabled: true\n  youtubeId: \"V1QchVFxn3g\"\n  title: \"TERROR NO MERCADO! - HELLMART恐怖无商！- 地狱超市\"\n  description: \"TERROR NO MERCADO! - HELLMART恐怖无商！- 地狱超市\"\n  duration: \"PT0S\"\n  uploadDate: \"2026-01-30\"\n---\n\n## Consideraciones de Rendimiento para HELLMART en Steam Deck\n\nCuando se trata de *HELLMART*, lograr una velocidad de fotogramas estable es crucial para la inmersión. En la Steam Deck, la clave es equilibrar la fidelidad gráfica del juego con sus capacidades de rendimiento. Afortunadamente, la Steam Deck tiene suficiente potencia para ejecutar *HELLMART*, pero necesitarás ajustar algunas configuraciones para un rendimiento óptimo. Aquí hay algunas consideraciones importantes:\n\n- **Resolución de Gráficos**: *HELLMART* puede ser bastante exigente en términos visuales. Ejecutar el juego a una alta resolución llevará al límite la Steam Deck, por lo que recomendamos bajar la resolución a 720p para una jugabilidad más fluida. Este ajuste reducirá significativamente la carga gráfica sin sacrificar demasiada calidad visual.\n  \n- **Limitación de la Velocidad de Fotogramas**: Limitar la velocidad de fotogramas a 30 FPS puede ayudar a la Steam Deck a mantener un rendimiento consistente, especialmente durante los momentos intensos en *HELLMART* donde podrías encontrar sustos repentinos o disturbios inesperados en la tienda.\n\n- **V-Sync**: Habilitar V-Sync puede prevenir el tearing de la pantalla, un problema común en dispositivos portátiles como la Steam Deck. Sin embargo, ten en cuenta que V-Sync podría afectar el rendimiento si tu velocidad de fotogramas cae por debajo de los 30 FPS objetivo.\n\n## Ajustando la Configuración de HELLMART para Steam Deck\n\nAquí tienes un resumen de las mejores configuraciones para ejecutar *HELLMART* en tu Steam Deck. Estos ajustes te ayudarán a asegurar que tengas una experiencia fluida y agradable.\n\n### 1. **Configuración de Gráficos**\n   - **Resolución**: Establecer en 1280x800 o 1280x720 para un rendimiento mejorado.\n   - **Calidad de Gráficos**: Baja esto a Medio o Bajo. Esto reduce las texturas y los detalles de las sombras, haciendo que el juego se ejecute de manera más eficiente en el hardware de la Steam Deck.\n   - **Calidad de Sombras**: Baja la calidad de las sombras para reducir la carga de procesamiento. Las sombras en *HELLMART* pueden ser bastante exigentes y a menudo no son necesarias para el juego.\n\n### 2. **Opciones de Control**\n   - **Diseño de Steam Deck**: Asegúrate de usar un diseño personalizado que coincida con tu estilo de juego preferido. Una configuración común es mapear el movimiento al joystick izquierdo y los botones de acción (como interactuar y esprintar) a los botones frontales para un fácil acceso.\n\n### 3. **Configuración de Audio**\n   - **Ajuste de Volumen**: Es posible que desees ajustar la configuración de audio en el juego para evitar abrumar tus oídos durante los sustos repentinos. Establece el volumen de la música bajo y los efectos de sonido en medio para equilibrar la atmósfera espeluznante.\n\n### 4. **Uso de la Batería**\n   - **Modo de Ahorro de Batería**: Si estás jugando sobre la marcha, considera activar el Modo de Ahorro de Batería para extender tu tiempo de juego. Esto disminuirá ligeramente el rendimiento, pero *HELLMART* aún puede ser disfrutable en configuraciones más bajas.\n\n---\n\n## Cómo Maximizar Tu Experiencia de Juego en Steam Deck\n\nAparte de modificar tu configuración, hay algunas cosas adicionales que puedes hacer para que tu experiencia de juego de *HELLMART* en la Steam Deck sea aún mejor:\n\n- **Usa un Agarre**: Para sesiones de juego extendidas, un accesorio de agarre puede hacer que la Steam Deck sea mucho más cómoda de sostener.\n- **Modo de Juego**: Asegúrate de estar en el Modo de Juego en tu Steam Deck, que optimiza el sistema para juegos y te brinda fácil acceso a la configuración que necesitarás ajustar durante el juego.\n- **Pantalla Externa**: Si tienes un monitor portátil o una base, considera jugar *HELLMART* en una pantalla más grande para una experiencia más inmersiva.\n\n---\n\n## Consejos de la Comunidad para HELLMART en Steam Deck\n\nSi bien ajustar la configuración es importante, a veces los mejores consejos provienen de la comunidad. Aquí hay algunos consejos basados en los comentarios de los jugadores:\n\n- **Cambiar a Proton Experimental**: Algunos jugadores han reportado un rendimiento mejorado al cambiar a Proton Experimental. Esta versión puede ofrecer una mejor compatibilidad con ciertos juegos en la Steam Deck.\n  \n- **Overclocking**: Si bien el overclocking puede no ser necesario para *HELLMART*, algunos usuarios experimentados de Steam Deck optan por un ligero overclock para mejorar el rendimiento en juegos más exigentes. Sin embargo, esto puede generar más calor, así que vigila la temperatura.\n\n---\n\n## Conclusión\n\nJugar *HELLMART* en la Steam Deck puede ser una experiencia emocionante, combinando la tensión del horror con la conveniencia de la portabilidad. Al optimizar tu configuración para el rendimiento, ajustar los gráficos de tu juego y considerar algunos consejos de la comunidad, podrás disfrutar de *HELLMART* con mínimas interrupciones o caídas de fotogramas. Con estos ajustes, estarás listo para sobrevivir al aterrador supermercado desde la comodidad de tu dispositivo portátil. \n\n---\n"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1432,
+    "completion_tokens": 1392,
+    "total_tokens": 2824,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 1432,
+      "audio_tokens": 0,
+      "image_tokens": 0
+    },
+    "completion_tokens_details": {
+      "text_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0
+    },
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "input_tokens_details": null
+  }
+}

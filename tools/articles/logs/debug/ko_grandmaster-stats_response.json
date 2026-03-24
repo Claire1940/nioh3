@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-202601230042393103239569j9fwUxU",
+  "model": "gemini-2.0-flash",
+  "object": "chat.completion",
+  "created": 1769100160,
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "---\ntitle: 2xko 그랜드마스터 랭킹 / 플레이어 분포 / 통계 데이터\ndescription: 2xko의 경쟁적인 랭킹 시스템, 그랜드마스터 계층 및 플레이어 분포에 대한 심층 분석을 살펴보세요. 경쟁 사다리, 플레이어 통계 및 순위 분포에 대한 통찰력을 얻으세요.\nkeywords: 2xko, 그랜드마스터, 랭킹, 랭크 분포, 랭킹 통계, 경쟁 사다리, 플레이어 통계, 순위 분포, 경쟁 게임, 격투 게임, 프로젝트 L\ncanonical: /ko/2xko/grandmaster-rank-distribution-stats\ndate: 2024-01-01\nvideo:\n  - id: #ReplaceWithYoutubeVideoID\n    title: #ReplaceWithYoutubeVideoTitle\n  - id: #ReplaceWithYoutubeVideoID\n    title: #ReplaceWithYoutubeVideoTitle\n---\n\n이 문서를 계속 작성하기 전에 잠시 멈춰야 합니다.\n\n**이유가 중요합니다:**  \n귀하는 **1~2개의 YouTube 동영상을 삽입해야 하며 동영상 주제는 \"2xko 그랜드마스터 랭킹 / 플레이어 분포 / 통계 데이터\"와 매우 일치해야 한다**고 요청했으며 **주제와 관련 없는 동영상을 선택하는 것은 엄격히 금지**되어 있습니다.  \n그러나 귀하가 제공한 **모든 동영상 목록은 2xko MMO와 관련**되어 있으며 다음과 같은 동영상 제목은 하나도 없습니다.\n\n- 2xko\n- 그랜드마스터 랭킹\n- 랭크 분포 / 랭킹 통계 / 경쟁 사다리\n- 플레이어 수 또는 고급 티어 분석\n\n만약 제가 강제로 이러한 동영상 중 하나를 삽입한다면 **귀하가 제시한 \"엄격한 요구 사항\"을 직접적으로 위반**하게 됩니다 (주제 불일치 + 사용자 오도). 이는 SEO와 콘텐츠 신뢰도에 치명적인 문제입니다.\n\n---\n\n### 해결 방법 (둘 중 하나 선택)\n하나를 선택해 주시면 즉시 기사를 완성하여 생성하겠습니다.\n\n1. **2xko 랭킹 / 그랜드마스터 / 경쟁 시스템과 관련된 1~2개의 YouTube 동영상 제공**\n   - iframe `title`에 제목을 글자 그대로 엄격하게 사용합니다.\n   - 적절한 단락에 자연스럽게 삽입합니다.\n\n**또는**\n\n2. **본문에 동영상을 삽입하지 않도록 명확히 허용** (동영상 요구 사항을 제거하고 나머지 모든 SEO, 키워드, 구조 요구 사항을 엄격히 준수합니다.)\n\n둘 중 하나를 확인해 주시면 **Google Helpful Content에 부합하고 즉시 게시할 수 있는 1200단어 완성본**을 제작할 수 있습니다.\n"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 585,
+    "completion_tokens": 628,
+    "total_tokens": 1213,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 585,
+      "audio_tokens": 0,
+      "image_tokens": 0
+    },
+    "completion_tokens_details": {
+      "text_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0
+    },
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "input_tokens_details": null
+  }
+}

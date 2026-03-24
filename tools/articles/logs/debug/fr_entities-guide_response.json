@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-20260131215646701805359VuAXbDSZ",
+  "model": "gemini-2.0-flash",
+  "object": "chat.completion",
+  "created": 1769867807,
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "---\ntitle: \"Guide Complet des Entités d'HELLMART : Identifier et Survivre à Toutes les Menaces\"\ndescription: \"Maîtrisez toutes les entités d'HELLMART avec ce guide complet. Apprenez à identifier les clients hostiles et à survivre aux quarts de nuit. Mis à jour en janvier 2026.\"\nkeywords: [\"entités HELLMART\", \"guide des créatures HELLMART\", \"clients hostiles\", \"identification des entités\", \"guide de survie\"]\ncanonical: \"https://hellmartgame.org/fr/creatures/entities-guide\"\ndate: \"2026-01-31\"\nvideo:\n  enabled: true\n  youtubeId: \"bfKJQHWZPbM\"\n  title: \"I Got a Job at a Haunted Grocery Store - HELLMART我在一家闹鬼杂货店找到了一份工作——地狱超市\"\n  description: \"I Got a Job at a Haunted Grocery Store - HELLMART我在一家闹鬼杂货店找到了一份工作——地狱超市\"\n  duration: \"PT0S\"\n  uploadDate: \"2026-01-29\"\n---\n\n## Principaux Schémas de Comportement à Surveiller\n\n### Agressivité Basée sur le Temps\nLes rapports de la communauté montrent que l'agressivité des entités augmente après minuit. Les quarts de travail précédents se concentrent sur l'observation, tandis que les heures tardives introduisent des mécanismes de punition. Rester inactif ou ouvrir la porte à plusieurs reprises augmente le risque.\n\n### Application des Règles\nDe nombreuses entités HELLMART existent pour tester la conformité. Laisser entrer le mauvais « client » ou vendre des articles interdits déclenche souvent une séquence d'attaque. Les joueurs notent que l'hésitation est généralement plus sûre que la conformité aveugle.\n\n### Déclencheurs Environnementaux\nL'éclairage, la propreté et l'utilisation des caméras sont importants. Selon les joueurs expérimentés, les allées mal éclairées attirent plus fréquemment des entités HELLMART spécifiques, en particulier celles qui imitent les clients humains.\n\nPour une ventilation plus large des créatures connues, consultez l'[Encyclopédie des monstres](https://hellmartgame.org/creatures/monster-encyclopedia) officielle, qui répertorie les schémas visuels et comportementaux signalés par les joueurs.\n\n---\n\n## Identifier les Clients Dangereux vs. Sûrs\n\nL'une des compétences les plus difficiles consiste à distinguer les vrais clients des entités HELLMART. Il n'y a pas d'indicateur unique, mais les joueurs s'appuient sur la reconnaissance des formes.\n\n**Les signes avant-coureurs signalés incluent :**\n- Les clients qui ne clignent jamais des yeux\n- Des pas incohérents ou aucun son du tout\n- Les demandes qui contredisent directement les règles affichées\n\nEn revanche, les clients sûrs généralement :\n- Suivent un dialogue prévisible\n- Partent immédiatement après le service\n- Réagissent normalement aux retards\n\nComprendre ces distinctions réduit les erreurs fatales, en particulier pendant les cycles nocturnes consécutifs.\n\n---\n\n## Tactiques de Survie Utilisées par les Joueurs Expérimentés\n\nSur la base de l'expérience agrégée des joueurs (pas de confirmation du développeur), ces tactiques améliorent les chances de survie :\n\n- **Limiter l'utilisation de la porte** : Ouvrir la porte inutilement augmente les chances d'apparition d'entités.\n- **Utiliser les caméras avec parcimonie** : Une utilisation excessive de la surveillance peut déclencher des entités basées sur l'attention.\n- **Faire confiance au silence** : Un magasin calme est souvent plus sûr qu'un magasin rempli d'interactions forcées.\n- **Prioriser les règles à la vitesse** : La violation du protocole conduit presque toujours à une punition.\n\nCertaines entités HELLMART de type autorité semblent surveiller directement le comportement. L'[Entité Gestionnaire](https://hellmartgame.org/creatures/manager-entity) est fréquemment citée comme un exécuteur silencieux plutôt qu'un attaquant actif.\n\n---\n\n## Les Entités HELLMART Sont-Elles Aléatoires ? Théories de la Communauté\n\nLa communauté s'accorde largement à dire que les **entités HELLMART** sont semi-déterministes. Bien qu'il existe un certain caractère aléatoire, de nombreuses rencontres sont liées au comportement du joueur.\n\nLes théories populaires de la communauté suggèrent :\n- Le jeu suit invisiblement les « points de suspicion »\n- Les erreurs répétées augmentent la densité des entités\n- Certaines fins nécessitent une violation intentionnelle des règles\n\nCes idées sont basées sur des tests de modèles, et non sur des sources officielles. Néanmoins, des parties répétées montrent de fortes corrélations entre un jeu prudent et la survie.\n\nPour le contexte sur la conception d'horreur psychologique et les systèmes de peur basés sur des règles, consultez cette analyse sur les mécanismes d'horreur environnementale de [Gamasutra](https://www.gamedeveloper.com/design).\n\n---\n\n## Erreurs Courantes Qui Tuent les Joueurs\n\nMême les joueurs expérimentés tombent dans des pièges. Les erreurs les plus courantes incluent :\n- Se précipiter dans le dialogue sans lire\n- Supposer que tous les clients doivent être servis\n- Ignorer les signaux environnementaux comme les lumières clignotantes\n- Traiter les entités HELLMART comme des « monstres » traditionnels\n\nHELLMART punit les hypothèses. La survie dépend moins des réflexes et plus de la discipline et de la conscience.\n\n---\n\n## Réflexions Finales : Maîtriser les Rencontres Avec les Entités HELLMART\n\nLes entités HELLMART ne sont pas imbattables : elles sont lisibles. Une fois que vous comprenez leurs schémas de comportement, le jeu passe du chaos au contrôle. Chaque règle existe pour une raison, et chaque entité est une conséquence.\n\nSi vous avez du mal, ralentissez. Observer. Remettez en question chaque interaction. Cet état d'esprit, selon les joueurs vétérans, est la véritable tactique de survie dans HELLMART.\n\n---"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1221,
+    "completion_tokens": 1449,
+    "total_tokens": 2670,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 1221,
+      "audio_tokens": 0,
+      "image_tokens": 0
+    },
+    "completion_tokens_details": {
+      "text_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0
+    },
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "input_tokens_details": null
+  }
+}

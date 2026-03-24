@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-20260131215748529849964zN7U534A",
+  "model": "gemini-2.0-flash",
+  "object": "chat.completion",
+  "created": 1769867869,
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "---\ntitle: \"HELLMART auf Steam Deck: Performance-Leitfaden & Optimale Einstellungen\"\ndescription: \"Spiele HELLMART auf Steam Deck mit optimaler Performance. Aktualisiert im Januar 2026 mit Einstellungsleitfaden und Performance-Tipps.\"\nkeywords: [\"HELLMART Steam Deck\", \"Steam Deck Performance\", \"portables Gaming\", \"HELLMART Einstellungen\", \"Optimierungsleitfaden\"]\ncanonical: \"https://hellmartgame.org/de/technical/steam-deck\"\ndate: \"2026-01-31\"\nvideo:\n  enabled: true\n  youtubeId: \"V1QchVFxn3g\"\n  title: \"TERROR NO MERCADO! - HELLMART恐怖无商！- 地狱超市\"\n  description: \"TERROR NO MERCADO! - HELLMART恐怖无商！- 地狱超市\"\n  duration: \"PT0S\"\n  uploadDate: \"2026-01-30\"\n---\n\n## Performance-Überlegungen für HELLMART auf Steam Deck\n\nWenn es um *HELLMART* geht, ist eine stabile Framerate entscheidend für das Eintauchen ins Spiel. Auf dem Steam Deck ist es wichtig, die grafische Qualität des Spiels mit seinen Leistungsfähigkeiten in Einklang zu bringen. Glücklicherweise hat das Steam Deck genug Leistung, um *HELLMART* auszuführen, aber du musst ein paar Einstellungen anpassen, um eine optimale Performance zu erzielen. Hier sind ein paar wichtige Überlegungen:\n\n- **Grafikauflösung**: *HELLMART* kann in Bezug auf die Grafik sehr anspruchsvoll sein. Das Spiel mit einer hohen Auflösung auszuführen, wird die Grenzen des Steam Decks ausreizen, daher empfehlen wir, die Auflösung für ein flüssigeres Gameplay auf 720p zu senken. Diese Anpassung wird die grafische Last deutlich reduzieren, ohne zu viel visuelle Qualität zu opfern.\n\n- **Framerate-Begrenzung**: Das Begrenzen der Framerate auf 30 FPS kann dem Steam Deck helfen, eine konstante Performance aufrechtzuerhalten, besonders während intensiver Momente in *HELLMART*, in denen du Jumpscares oder unerwartete Störungen im Laden erleben könntest.\n\n- **V-Sync**: Das Aktivieren von V-Sync kann Screen Tearing verhindern, ein häufiges Problem auf Handheld-Geräten wie dem Steam Deck. Beachte jedoch, dass V-Sync die Performance beeinträchtigen kann, wenn deine Framerate unter die angestrebten 30 FPS fällt.\n\n## Anpassen der HELLMART-Einstellungen für Steam Deck\n\nHier ist eine Übersicht über die besten Einstellungen zum Ausführen von *HELLMART* auf deinem Steam Deck. Diese Anpassungen helfen dir, ein reibungsloses und angenehmes Spielerlebnis zu gewährleisten.\n\n### 1. **Grafikeinstellungen**\n   - **Auflösung**: Stelle sie für eine verbesserte Performance auf 1280x800 oder 1280x720 ein.\n   - **Grafikqualität**: Reduziere diese auf Mittel oder Niedrig. Dies reduziert Texturen und Schattendetails, wodurch das Spiel effizienter auf der Hardware des Steam Decks läuft.\n   - **Schattenqualität**: Reduziere die Schattenqualität, um die Verarbeitungslast zu verringern. Schatten in *HELLMART* können sehr anspruchsvoll sein und sind oft nicht notwendig für das Gameplay.\n\n### 2. **Steuerungsoptionen**\n   - **Steam Deck Layout**: Stelle sicher, dass du ein benutzerdefiniertes Layout verwendest, das zu deinem bevorzugten Spielstil passt. Eine gängige Konfiguration ist das Zuweisen der Bewegung zum linken Joystick und der Aktionstasten (wie Interagieren und Sprinten) zu den vorderen Tasten für einfachen Zugriff.\n\n### 3. **Audioeinstellungen**\n   - **Lautstärkeanpassung**: Möglicherweise möchtest du die Audioeinstellungen im Spiel anpassen, um zu vermeiden, dass deine Ohren bei Jumpscares überfordert werden. Stelle die Musiklautstärke niedrig und die Soundeffekte auf mittel ein, um die gruselige Atmosphäre auszugleichen.\n\n### 4. **Batterieverbrauch**\n   - **Akkusparmodus**: Wenn du unterwegs spielst, solltest du den Akkusparmodus aktivieren, um deine Spielzeit zu verlängern. Dies wird die Leistung leicht verringern, aber *HELLMART* kann auch mit niedrigeren Einstellungen genossen werden.\n\n---\n\n## So maximierst du dein Spielerlebnis auf dem Steam Deck\n\nAbgesehen von der Optimierung deiner Einstellungen gibt es ein paar zusätzliche Dinge, die du tun kannst, um dein *HELLMART*-Spielerlebnis auf dem Steam Deck noch besser zu machen:\n\n- **Verwende einen Griff**: Für längere Gaming-Sessions kann ein Griffaufsatz das Halten des Steam Decks deutlich komfortabler machen.\n- **Spielmodus**: Stelle sicher, dass du dich im Spielmodus auf deinem Steam Deck befindest, der das System für Spiele optimiert und dir einfachen Zugriff auf die Einstellungen gibt, die du während des Spiels anpassen musst.\n- **Externes Display**: Wenn du einen tragbaren Monitor oder eine Dockingstation hast, solltest du in Erwägung ziehen, *HELLMART* auf einem größeren Bildschirm zu spielen, um ein intensiveres Erlebnis zu erzielen.\n\n---\n\n## Community-Tipps für HELLMART auf Steam Deck\n\nWährend das Anpassen der Einstellungen wichtig ist, kommen die besten Tipps manchmal von der Community. Hier sind ein paar Ratschläge basierend auf dem Feedback der Spieler:\n\n- **Wechsle zu Proton Experimental**: Einige Spieler haben von einer verbesserten Performance berichtet, indem sie zu Proton Experimental gewechselt sind. Diese Version kann eine bessere Kompatibilität mit bestimmten Spielen auf dem Steam Deck bieten.\n\n- **Übertakten**: Während das Übertakten für *HELLMART* möglicherweise nicht erforderlich ist, entscheiden sich einige erfahrene Steam Deck-Benutzer für eine leichte Übertaktung, um die Performance in anspruchsvolleren Spielen zu verbessern. Dies kann jedoch mehr Wärme erzeugen, also behalte die Temperatur im Auge.\n\n---\n\n## Fazit\n\nDas Spielen von *HELLMART* auf dem Steam Deck kann eine aufregende Erfahrung sein, die die Spannung des Horrors mit der Bequemlichkeit der Portabilität verbindet. Indem du deine Einstellungen für die Performance optimierst, die Grafik deines Spiels anpasst und einige Community-Tipps berücksichtigst, kannst du *HELLMART* mit minimalen Rucklern oder Frame-Drops genießen. Mit diesen Optimierungen bist du bereit, den schrecklichen Supermarkt bequem von deinem Handheld-Gerät aus zu überleben.\n"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1406,
+    "completion_tokens": 1470,
+    "total_tokens": 2876,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 1406,
+      "audio_tokens": 0,
+      "image_tokens": 0
+    },
+    "completion_tokens_details": {
+      "text_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0
+    },
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "input_tokens_details": null
+  }
+}

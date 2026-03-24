@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-20260201222449918262546BgviJwCh",
+  "model": "gemini-2.0-flash",
+  "object": "chat.completion",
+  "created": 1769955891,
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "---\ntitle: \"仁王３戦闘ガイド - 全ての構えとコンボをマスターしよう！\"\ndescription: \"仁王３の戦闘ガイドに関する全てを発見しましょう。専門家によるヒント、戦略、完全ガイドを2026年2月に更新。\"\nkeywords: [\"仁王３ 戦闘ガイド\", \"仁王３\", \"仁王３ ガイド\"]\ncanonical: \"/ja/combat/combat-guide/\"\ndate: \"2026-02-01\"\nvideo:\n  enabled: true\n  youtubeId: \"0sWmxmLbuFg\"\n  title: \"I Became The Ultimate Ninja! | Nioh 3 Full Game - Ninja Dual Katana Gameplay Playthrough EP. 1我成为了终极忍者！|仁王 3 完整版 - 忍者双刀游戏通关 EP. 1\"\n  description: \"I Became The Ultimate Ninja! | Nioh 3 Full Game - Ninja Dual Katana Gameplay Playthrough EP. 1我成为了终极忍者！|仁王 3 完整版 - 忍者双刀游戏通关 EP. 1\"\n  duration: \"PT34M30S\"\n  uploadDate: \"2026-01-30\"\n---\n\n## 仁王３の戦闘をマスターするための重要なヒント\n\n- **ロードアウトを色々試そう**: 適切な武器と防具は、戦闘パフォーマンスに大きな影響を与えます。たとえば、二刀のような速い武器を構えで使用すると、複数の速い攻撃を連鎖させることができます。一方、上段構えで重い武器を使用すると、壊滅的な一撃を与えるのに役立ちます。\n- **回避と防御をマスターしよう**: 仁王３は、効果的に攻撃を回避および防御する方法を理解しているプレイヤーに報酬を与えます。タイミングの良い回避は、すばやく位置を変えて敵の弱点を攻撃できます。\n- **敵のパターンに適応しよう**: 仁王３のすべての敵には独自の攻撃パターンがあり、これらのパターンを学習すると、いつ攻撃し、いつ防御するかを判断するのに役立ちます。彼らの動きを注意深く観察することで、致命的なコンボの機会をうかがうことができます。\n\n## 仁王３の高度な戦闘戦略\n\n戦闘スキルを次のレベルに引き上げたいプレイヤーのために、高度なヒントをいくつか紹介します。\n\n1. **戦闘中の構え変更**: 多くの熟練したプレイヤーは、敵を混乱させるためにコンボ中に構えを切り替えることを推奨しています。たとえば、上段構えで開始して敵のガードを崩し、次に下段構えに切り替えて、高速で正確な攻撃で終わらせます。\n2. **スキルを賢く使おう**: 忍術や武士道などのスキルは、戦闘を大幅に強化できます。プレイヤーはこれらを使用して、バフを適用したり、戦闘で隙を作ったりできます。たとえば、ステルススキルを使用すると、敵が気づく前に先制攻撃を仕掛けることができます。\n3. **敵の弱点を理解しよう**: 特定の敵は、特定のタイプの攻撃に弱いです。属性武器を試したり、敵の弱点をターゲットにするスキルを使用して、最大のダメージを与えましょう。\n\n忍術とその戦闘スキルに関する詳細については、[忍術ガイド](https://nioh3.org/combat/ninja-style)を確認するか、[スキルガイド](https://nioh3.org/combat/skills)で仁王３のスキルツリーをさらに深く掘り下げてください。\n"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 962,
+    "completion_tokens": 767,
+    "total_tokens": 1729,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 962,
+      "audio_tokens": 0,
+      "image_tokens": 0
+    },
+    "completion_tokens_details": {
+      "text_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0
+    },
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "input_tokens_details": null
+  }
+}

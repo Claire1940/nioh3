@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-2026020122254939640815tFrLpMYd",
+  "model": "gemini-2.0-flash",
+  "object": "chat.completion",
+  "created": 1769955950,
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "---\ntitle: \"Nioh 3 Versión para PC - ¡Requisitos del Sistema y Optimización!\"\ndescription: \"Descubre todo sobre Nioh 3 para PC en Nioh 3. Consejos de expertos, estrategias y guía completa actualizada en febrero de 2026.\"\nkeywords: [\"Nioh 3 PC\", \"Nioh 3\", \"guía de Nioh 3\"]\ncanonical: \"/es/platforms/pc/\"\ndate: \"2026-02-01\"\nvideo:\n  enabled: true\n  youtubeId: \"T73wdP6tAgo\"\n  title: \"Nioh 3 Versión para PC - ¡Requisitos del Sistema y Optimización!\"\n  description: \"Nioh 3 | El contenido de la demo se traslada al lanzamiento del juego | Cozy Stream | Parte 103 | | |\"\n  duration: \"PT34M22S\"\n  uploadDate: \"2026-01-31\"\n---\n\n## Cómo Optimizar Nioh 3 en PC\n\nUna vez que te hayas asegurado de que tu sistema cumple con los requisitos, el siguiente paso es optimizar tu configuración para lograr el mejor rendimiento y calidad visual para tu equipo. Aquí hay algunos consejos que pueden ayudarte a ajustar tu experiencia.\n\n### 1. Ajusta la Configuración Gráfica para un Rendimiento Óptimo\n\n- **Resolución**: Jugar a 1080p es una apuesta segura para la mayoría de los sistemas de gama media. Si tu PC puede manejarlo, opta por 1440p o 4K, pero prepárate para ajustar configuraciones como sombras y calidad de texturas.\n- **Tasa de Frames**: Apunta a unos 60 FPS estables para una experiencia fluida. Desactiva V-Sync si prefieres una latencia de entrada más baja, pero ten en cuenta que esto puede causar screen tearing.\n- **Anti-Aliasing**: Configura esto a un nivel moderado, como FXAA o TAA, para suavizar los bordes dentados sin afectar drásticamente el rendimiento.\n- **Calidad de Texturas**: Si estás ejecutando *Nioh 3* en un sistema con menos VRAM, bajar la calidad de las texturas puede dar un aumento notable en el rendimiento sin sacrificar demasiada fidelidad visual.\n\n### 2. Habilita DLSS (Deep Learning Super Sampling)\n\nSi estás usando una tarjeta Nvidia RTX, habilita **DLSS** para mejorar la tasa de frames manteniendo la calidad visual. Esta tecnología basada en IA ayuda a renderizar tu juego a una resolución más baja y luego la escala a la resolución nativa de tu pantalla, ofreciendo un aumento de rendimiento sin una gran pérdida en la calidad de la imagen.\n\n### 3. Actualiza los Drivers y el Software del Sistema\n\nAntes de sumergirte en el juego, asegúrate de que tus drivers de GPU estén actualizados. Tanto Nvidia como AMD lanzan regularmente actualizaciones que optimizan el rendimiento para los nuevos juegos. Además, asegúrate de que las actualizaciones de Windows de tu sistema estén instaladas para evitar problemas de compatibilidad con *Nioh 3*.\n\n## Solución de Problemas Comunes de Rendimiento en PC\n\nIncluso con el hardware y la configuración correctos, algunos jugadores de *Nioh 3* pueden encontrar problemas de rendimiento. Aquí hay algunas soluciones comunes para ayudarte a superarlos.\n\n### Tartamudeo y Caída de Frames\n\n- **Solución**: Baja la configuración gráfica o desactiva cualquier aplicación en segundo plano que pueda estar utilizando recursos del sistema.\n- **Solución**: Intenta usar un **límite de tasa de frames** para evitar fluctuaciones en el rendimiento, especialmente si estás jugando a una alta tasa de frames.\n\n### Input Lag o Alta Latencia\n\n- **Solución**: Asegúrate de que V-Sync esté desactivado, ya que puede causar input lag. Además, usar **G-Sync** o **FreeSync** (si tu monitor lo admite) puede mejorar la capacidad de respuesta y eliminar el screen tearing.\n\n## Nioh 3 PC vs Versiones de Consola: Comparación de Rendimiento\n\nSi bien *Nioh 3* ha dejado su huella en las consolas, la versión para PC ofrece una mejor personalización en términos de configuración gráfica y tasa de frames. Los jugadores pueden esperar tasas de frames más altas y una mejor resolución, especialmente con el soporte de hardware de alta gama como la serie Nvidia RTX. Si tienes un sistema potente, jugar *Nioh 3* en PC ofrece el máximo rendimiento, especialmente con DLSS habilitado y la configuración ajustada para tu equipo.\n\nPara aquellos que usan **Steam Deck**, el juego aún funciona decentemente, aunque es posible que debas ajustar la configuración gráfica para mantener una tasa de frames estable. Los jugadores también pueden optimizar la configuración del juego para obtener una experiencia cómoda con esta PC portátil.\n\n## Nioh 3 Gameplay: Qué Esperar\n\n*Nioh 3* ofrece una desafiante experiencia de acción-RPG que combina la mitología japonesa feudal con un combate de ritmo rápido. A medida que atraviesas varios niveles bellamente diseñados, desde pueblos tranquilos hasta templos oscurecidos, participarás en combates tácticos con espadas, magia y encuentros brutales con yokai.\n\n- **Estilos de Combate**: Elige entre varios tipos de armas y posturas de combate para construir tu estilo de juego perfecto. Los jugadores que disfrutan de la precisión gravitarán hacia la espada, mientras que aquellos que buscan velocidad podrían preferir la katana dual.\n- **Progresión de Habilidades**: A medida que progresas, desbloquearás una variedad de habilidades y técnicas que permiten un sistema de combate altamente personalizable. Asegúrate de experimentar con diferentes builds para encontrar lo que se adapte a tu estilo de juego.\n- **Modo Cooperativo**: Nioh 3 ofrece un modo multijugador cooperativo, que te permite formar equipo con otros jugadores para enfrentar los desafíos más difíciles del juego. Con la flexibilidad de la PC, es más fácil entrar y salir de las sesiones multijugador.\n\n## Enlaces Internos para Mejorar tu Experiencia\n\nSi estás buscando más consejos sobre cómo aprovechar al máximo tu experiencia de *Nioh 3*, consulta las siguientes guías:\n\n- [Demo](https://nioh3.org/platforms/demo) - Explora la demo de *Nioh 3* y aprende los entresijos antes del lanzamiento completo del juego.\n- [Demo Time](https://nioh3.org/platforms/demo-time) - Mira cómo maximizar tu experiencia de demo con nuestros consejos de expertos.\n"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1514,
+    "completion_tokens": 1446,
+    "total_tokens": 2960,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 1514,
+      "audio_tokens": 0,
+      "image_tokens": 0
+    },
+    "completion_tokens_details": {
+      "text_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0
+    },
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "input_tokens_details": null
+  }
+}

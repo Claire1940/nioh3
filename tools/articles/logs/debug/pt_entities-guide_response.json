@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-20260131215646442993051mzdyJhBL",
+  "model": "gemini-2.0-flash",
+  "object": "chat.completion",
+  "created": 1769867807,
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "---\ntitle: \"Guia Completo das Entidades de HELLMART: Identifique e Sobreviva a Todas as Ameaças\"\ndescription: \"Domine todas as entidades de HELLMART com este guia completo. Aprenda a identificar clientes hostis e sobreviver aos turnos da noite. Atualizado em janeiro de 2026.\"\nkeywords: [\"entidades de HELLMART\", \"guia de criaturas de HELLMART\", \"clientes hostis\", \"identificação de entidades\", \"guia de sobrevivência\"]\ncanonical: \"https://hellmartgame.org/pt/creatures/entities-guide\"\ndate: \"2026-01-31\"\nvideo:\n  enabled: true\n  youtubeId: \"bfKJQHWZPbM\"\n  title: \"I Got a Job at a Haunted Grocery Store - HELLMART我在一家闹鬼杂货店找到了一份工作——地狱超市\"\n  description: \"I Got a Job at a Haunted Grocery Store - HELLMART我在一家闹鬼杂货店找到了一份工作——地狱超市\"\n  duration: \"PT0S\"\n  uploadDate: \"2026-01-29\"\n---\n\n## Padrões de Comportamento Essenciais a Serem Observados\n\n### Agressão Baseada no Tempo\nRelatos da comunidade mostram que a agressão das entidades aumenta após a meia-noite. Os turnos anteriores se concentram na observação, enquanto as últimas horas introduzem mecânicas de punição. Ficar parado ou abrir a porta repetidamente aumenta o risco.\n\n### Aplicação de Regras\nMuitas entidades de HELLMART existem para testar a conformidade. Deixar entrar o \"cliente\" errado ou vender itens restritos geralmente desencadeia uma sequência de ataque. Jogadores notam que a hesitação é geralmente mais segura do que a conformidade cega.\n\n### Gatilhos Ambientais\nIluminação, limpeza e uso da câmera são importantes. De acordo com jogadores experientes, corredores mal iluminados atraem entidades específicas de HELLMART com mais frequência, especialmente aquelas que imitam clientes humanos.\n\nPara uma análise mais ampla de criaturas conhecidas, consulte a [Enciclopédia de Monstros](https://hellmartgame.org/creatures/monster-encyclopedia) oficial, que cataloga padrões visuais e comportamentais relatados por jogadores.\n\n---\n\n## Identificando Clientes Perigosos vs. Seguros\n\nUma das habilidades mais difíceis é distinguir clientes reais de entidades de HELLMART. Não há um único indicador, mas os jogadores confiam no reconhecimento de padrões.\n\n**Sinais de alerta relatados incluem:**\n- Clientes que nunca piscam\n- Passos inconsistentes ou nenhum som\n- Solicitações que contradizem diretamente as regras afixadas\n\nPor outro lado, clientes seguros geralmente:\n- Seguem um diálogo previsível\n- Saem imediatamente após o atendimento\n- Reagem normalmente a atrasos\n\nCompreender essas distinções reduz erros fatais, especialmente durante ciclos noturnos consecutivos.\n\n---\n\n## Táticas de Sobrevivência Usadas por Jogadores Experientes\n\nCom base na experiência agregada do jogador (não na confirmação do desenvolvedor), essas táticas melhoram as chances de sobrevivência:\n\n- **Limite o uso da porta**: Abrir a porta desnecessariamente aumenta as chances de surgimento de entidades.\n- **Use câmeras com moderação**: O uso excessivo da vigilância pode desencadear entidades baseadas na atenção.\n- **Confie no silêncio**: Uma loja silenciosa geralmente é mais segura do que uma cheia de interações forçadas.\n- **Priorize as regras em vez da velocidade**: Quebrar o protocolo quase sempre leva à punição.\n\nCertas entidades de HELLMART do tipo autoridade parecem monitorar o comportamento diretamente. A [Entidade Gerente](https://hellmartgame.org/creatures/manager-entity) é frequentemente citada como um executor silencioso, em vez de um atacante ativo.\n\n---\n\n## As Entidades de HELLMART São Aleatórias? Teorias da Comunidade\n\nA comunidade concorda amplamente que as **entidades de HELLMART** são semi-determinísticas. Embora alguma aleatoriedade exista, muitos encontros estão ligados ao comportamento do jogador.\n\nTeorias populares da comunidade sugerem:\n- O jogo rastreia \"pontos de suspeita\" invisivelmente\n- Erros repetidos aumentam a densidade da entidade\n- Certos finais exigem quebras de regras intencionais\n\nEssas ideias são baseadas em testes de padrões, não em fontes oficiais. Ainda assim, repetições repetidas mostram fortes correlações entre o jogo cauteloso e a sobrevivência.\n\nPara obter contexto sobre design de terror psicológico e sistemas de medo baseados em regras, consulte esta análise sobre mecânicas de terror ambiental da [Gamasutra](https://www.gamedeveloper.com/design).\n\n---\n\n## Erros Comuns Que Matam os Jogadores\n\nMesmo jogadores experientes caem em armadilhas. Os erros mais comuns incluem:\n- Apressar o diálogo sem ler\n- Assumir que todos os clientes devem ser atendidos\n- Ignorar pistas ambientais, como luzes piscando\n- Tratar as entidades de HELLMART como \"monstros\" tradicionais\n\nHELLMART pune suposições. A sobrevivência depende menos dos reflexos e mais da disciplina e da consciência.\n\n---\n\n## Considerações Finais: Dominando Encontros com Entidades de HELLMART\n\nAs entidades de HELLMART não são imbatíveis - elas são legíveis. Depois de entender seus padrões de comportamento, o jogo passa do caos ao controle. Cada regra existe por um motivo e cada entidade é uma consequência.\n\nSe você está lutando, diminua a velocidade. Observe. Questione cada interação. Essa mentalidade, de acordo com jogadores veteranos, é a verdadeira tática de sobrevivência em HELLMART.\n"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1240,
+    "completion_tokens": 1310,
+    "total_tokens": 2550,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 1240,
+      "audio_tokens": 0,
+      "image_tokens": 0
+    },
+    "completion_tokens_details": {
+      "text_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0
+    },
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "input_tokens_details": null
+  }
+}

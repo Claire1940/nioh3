@@ -1,0 +1,266 @@
+✅ Configuration loaded from config.json
+✅ Prompt template loaded
+✅ Successfully loaded 75 articles from JSON
+
+============================================================
+📊 PRIORITY STATISTICS
+============================================================
+Total Articles:       75
+
+Priority Distribution:
+  Priority 1:      30 articles
+  Priority 2:      30 articles
+  Priority 3:      15 articles
+============================================================
+
+
+⚠️  Found 75 URL format errors:
+  - Item 1: URL path should end with '/' - got '/guides/beginner-guide'
+  - Item 2: URL path should end with '/' - got '/guides/tutorial'
+  - Item 3: URL path should end with '/' - got '/guides/tips-and-tricks'
+  ... and 72 more
+
+✅ API client initialized
+✅ File writer initialized
+✅ Internal links manager initialized
+✅ Loaded 140 YouTube videos (filtered 0 VR videos)
+✅ YouTube manager initialized
+✅ 已加载缓存: 140 个视频
+✅ Video metadata manager initialized
+
+============================================================
+🚀 STARTING ARTICLE GENERATION (English)
+============================================================
+
+📝 Total articles to generate: 75
+
+🔨 Building prompts...
+✅ Built 75 prompts
+
+🤖 Generating articles via GPT-4o API...
+   Batch size: 100
+   Concurrent limit: 1000
+   Max tokens: 4096
+
+
+📦 Processing batch 1/1 (75 articles)...
+✅ Completed 75/75 articles
+
+💾 Saving generated articles...
+⏭️  Skipping en/guides/beginner-guide.mdx (already exists)
+⏭️  Skipping en/guides/tutorial.mdx (already exists)
+✅ Saved: en/guides/tips-and-tricks.mdx
+      ✅ Video metadata added: zIcPeOI5cIo
+✅ Saved: en/guides/build-guide.mdx
+      ✅ Video metadata added: jg14OtLayjw
+✅ Saved: en/guides/controller-support.mdx
+      ✅ Video metadata added: tNRlv6w7eh8
+✅ Saved: en/guides/overview.mdx
+      ✅ Video metadata added: YjV63x3K1L0
+✅ Saved: en/guides/mmo-features.mdx
+      ✅ Video metadata added: tNRlv6w7eh8
+✅ Saved: en/classes/tier-list.mdx
+      ✅ Video metadata added: tNRlv6w7eh8
+✅ Saved: en/classes/best-solo-class.mdx
+      ✅ Video metadata added: ITigJ0ojE2E
+✅ Saved: en/classes/overview.mdx
+      ✅ Video metadata added: tDQ7rSrJRUs
+✅ Saved: en/classes/knight.mdx
+      ✅ Video metadata added: 5UtDtVE09Z8
+✅ Saved: en/classes/mage.mdx
+      ⚠️  Video j9VOMcZuQa8 not found in cache
+✅ Saved: en/classes/rogue.mdx
+      ✅ Video metadata added: tNRlv6w7eh8
+✅ Saved: en/classes/priest.mdx
+      ✅ Video metadata added: zIcPeOI5cIo
+✅ Saved: en/community/gameplay.mdx
+      ✅ Video metadata added: ITigJ0ojE2E
+✅ Saved: en/community/trailer.mdx
+      ✅ Video metadata added: tNRlv6w7eh8
+✅ Saved: en/community/review.mdx
+      ✅ Video metadata added: tNRlv6w7eh8
+✅ Saved: en/community/playtest.mdx
+      ✅ Video metadata added: tNRlv6w7eh8
+✅ Saved: en/community/vs-tibia.mdx
+✅ Saved: en/community/similar-games.mdx
+      ✅ Video metadata added: tNRlv6w7eh8
+✅ Saved: en/combat/system.mdx
+      ✅ Video metadata added: tDQ7rSrJRUs
+✅ Saved: en/combat/pvp.mdx
+✅ Saved: en/combat/pve.mdx
+      ✅ Video metadata added: TIK1GTkoJ0o
+✅ Saved: en/combat/boss-fight.mdx
+      ✅ Video metadata added: 2yzcfJeyaKc
+✅ Saved: en/news/release-date.mdx
+      ✅ Video metadata added: tNRlv6w7eh8
+✅ Saved: en/news/patch-notes.mdx
+      ✅ Video metadata added: tNRlv6w7eh8
+✅ Saved: en/news/overview.mdx
+      ✅ Video metadata added: tNRlv6w7eh8
+✅ Saved: en/news/max-level.mdx
+      ✅ Video metadata added: J9Fjel2-EdA
+✅ Saved: en/news/webcup.mdx
+      ✅ Video metadata added: tNRlv6w7eh8
+✅ Saved: en/world/endgame.mdx
+      ✅ Video metadata added: e_hx3H1msvg
+✅ Saved: en/quests/system.mdx
+      ✅ Video metadata added: tNRlv6w7eh8
+✅ Saved: en/quests/npc.mdx
+      ✅ Video metadata added: tNRlv6w7eh8
+✅ Saved: en/multiplayer/dungeon.mdx
+      ✅ Video metadata added: 5UtDtVE09Z8
+✅ Saved: en/multiplayer/raid.mdx
+      ✅ Video metadata added: tNRlv6w7eh8
+✅ Saved: en/multiplayer/party.mdx
+      ✅ Video metadata added: zIcPeOI5cIo
+✅ Saved: en/multiplayer/clan.mdx
+      ✅ Video metadata added: zIcPeOI5cIo
+✅ Saved: en/leveling/guide.mdx
+✅ Saved: en/leveling/skills.mdx
+      ✅ Video metadata added: tNRlv6w7eh8
+✅ Saved: en/leveling/stats.mdx
+      ✅ Video metadata added: J9Fjel2-EdA
+✅ Saved: en/leveling/talents.mdx
+      ✅ Video metadata added: 7MT0EE7ReuQ
+✅ Saved: en/leveling/xp.mdx
+      ✅ Video metadata added: J9Fjel2-EdA
+✅ Saved: en/abilities/magic.mdx
+      ✅ Video metadata added: -UJ39Gm2jr8
+✅ Saved: en/abilities/overview.mdx
+      ✅ Video metadata added: tNRlv6w7eh8
+✅ Saved: en/crafting/system.mdx
+      ✅ Video metadata added: tNRlv6w7eh8
+✅ Saved: en/crafting/forging.mdx
+      ✅ Video metadata added: tNRlv6w7eh8
+✅ Saved: en/crafting/alchemy.mdx
+      ✅ Video metadata added: zIcPeOI5cIo
+✅ Saved: en/economy/trading.mdx
+      ✅ Video metadata added: tNRlv6w7eh8
+✅ Saved: en/world/housing.mdx
+✅ Saved: en/world/loot.mdx
+      ✅ Video metadata added: tNRlv6w7eh8
+✅ Saved: en/world/events.mdx
+      ✅ Video metadata added: WavJCE856Oo
+✅ Saved: en/world/seasonal.mdx
+      ✅ Video metadata added: tNRlv6w7eh8
+✅ Saved: en/world/story.mdx
+      ✅ Video metadata added: tNRlv6w7eh8
+✅ Saved: en/world/difficulty.mdx
+      ✅ Video metadata added: 5UtDtVE09Z8
+✅ Saved: en/combat/stealth.mdx
+      ✅ Video metadata added: tNRlv6w7eh8
+✅ Saved: en/crafting/enchanting.mdx
+      ✅ Video metadata added: 0ezDR6BwuxI
+✅ Saved: en/equipment/weapon.mdx
+      ✅ Video metadata added: CfkSh3Dczy4
+✅ Saved: en/equipment/sword.mdx
+      ✅ Video metadata added: tNRlv6w7eh8
+✅ Saved: en/equipment/armor.mdx
+      ✅ Video metadata added: dHlbFy63Mvc
+✅ Saved: en/equipment/shield.mdx
+      ✅ Video metadata added: tNRlv6w7eh8
+✅ Saved: en/equipment/staff.mdx
+      ✅ Video metadata added: oEL_GqyqGkM
+✅ Saved: en/equipment/dagger.mdx
+      ✅ Video metadata added: cxrWcH5RxrA
+✅ Saved: en/equipment/food.mdx
+      ✅ Video metadata added: YjV63x3K1L0
+✅ Saved: en/economy/gold-farm.mdx
+      ✅ Video metadata added: tNRlv6w7eh8
+✅ Saved: en/economy/auction.mdx
+      ✅ Video metadata added: 2yzcfJeyaKc
+✅ Saved: en/economy/black-market.mdx
+✅ Saved: en/economy/profession.mdx
+      ✅ Video metadata added: YjV63x3K1L0
+✅ Saved: en/economy/storage.mdx
+      ✅ Video metadata added: wCmah18bMBg
+✅ Saved: en/support/account.mdx
+      ✅ Video metadata added: tNRlv6w7eh8
+✅ Saved: en/support/premium.mdx
+      ✅ Video metadata added: tNRlv6w7eh8
+✅ Saved: en/support/steam.mdx
+      ✅ Video metadata added: tNRlv6w7eh8
+✅ Saved: en/support/discord.mdx
+      ✅ Video metadata added: tNRlv6w7eh8
+✅ Saved: en/support/reddit.mdx
+      ✅ Video metadata added: tNRlv6w7eh8
+✅ Saved: en/support/pc.mdx
+      ✅ Video metadata added: zIcPeOI5cIo
+✅ Saved: en/support/servers.mdx
+      ✅ Video metadata added: zIcPeOI5cIo
+✅ Saved: en/support/steamdeck.mdx
+      ✅ Video metadata added: tNRlv6w7eh8
+
+============================================================
+📊 GENERATION COMPLETE
+============================================================
+
+============================================================
+📊 API CALL STATISTICS
+============================================================
+Total Requests:       75
+Successful:           75 ✅
+Failed:               0 ❌
+Success Rate:         100.0%
+Total Tokens:         567266
+Duration:             91.04s
+Requests/Second:      0.82
+============================================================
+
+
+============================================================
+📁 FILE WRITING STATISTICS
+============================================================
+Total Processed:      75
+Successfully Saved:   73 ✅
+Saved with Warnings:  0 ⚠️
+Skipped (exists):     2 ⏭️
+Errors:               0 ❌
+Write Success Rate:   97.33%
+============================================================
+
+
+============================================================
+🔗 INTERNAL LINKS STATISTICS
+============================================================
+Total Links Available: 75
+
+By Category:
+  guides         : 7 links
+  classes        : 7 links
+  combat         : 5 links
+  news           : 5 links
+  world          : 7 links
+  quests         : 2 links
+  multiplayer    : 4 links
+  leveling       : 5 links
+  abilities      : 2 links
+  crafting       : 4 links
+  economy        : 6 links
+  equipment      : 7 links
+  support        : 8 links
+  community      : 6 links
+============================================================
+
+
+============================================================
+🎬 YOUTUBE VIDEO STATISTICS
+============================================================
+Total Videos in CSV:  140
+Available for LLM:    140
+
+ℹ️  Videos sent as ID+Title list, LLM fills HTML template
+============================================================
+
+
+============================================================
+📋 SUMMARY
+============================================================
+Total Articles:       75
+Successfully Saved:   73 ✅
+Failed:               2 ❌
+Success Rate:         97.33%
+============================================================
+
+ℹ️  Failed articles logged to: tools/articles/logs/failed_articles.log
+

@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-20260123004240854779048otqA3Orn",
+  "model": "gemini-2.0-flash",
+  "object": "chat.completion",
+  "created": 1769100162,
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "---\ntitle: \"Classificações de Nível do 2xko: Força dos"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1846,
+    "completion_tokens": 20,
+    "total_tokens": 1866,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 1846,
+      "audio_tokens": 0,
+      "image_tokens": 0
+    },
+    "completion_tokens_details": {
+      "text_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0
+    },
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "input_tokens_details": null
+  }
+}

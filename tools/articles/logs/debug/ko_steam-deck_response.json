@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-20260131215748893679350CVrth3vj",
+  "model": "gemini-2.0-flash",
+  "object": "chat.completion",
+  "created": 1769867870,
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "---\ntitle: \"Steam Deck에서 HELLMART 플레이하기: 성능 가이드 및 최적 설정\"\ndescription: \"최적의 성능으로 Steam Deck에서 HELLMART를 플레이하세요. 설정 가이드 및 성능 팁과 함께 2026년 1월 업데이트되었습니다.\"\nkeywords: [\"hellmart 스팀 덱\", \"Steam Deck 성능\", \"휴대용 게임\", \"Hellmart 설정\", \"최적화 가이드\"]\ncanonical: \"https://hellmartgame.org/ko/technical/steam-deck\"\ndate: \"2026-01-31\"\nvideo:\n  enabled: true\n  youtubeId: \"V1QchVFxn3g\"\n  title: \"TERROR NO MERCADO! - HELLMART恐怖无商！- 地狱超市\"\n  description: \"TERROR NO MERCADO! - HELLMART恐怖无商！- 地狱超市\"\n  duration: \"PT0S\"\n  uploadDate: \"2026-01-30\"\n---\n\n## Steam Deck에서 HELLMART 성능 고려 사항\n\n*HELLMART*를 플레이할 때 안정적인 프레임 속도를 유지하는 것은 몰입도를 높이는 데 매우 중요합니다. Steam Deck에서는 게임의 그래픽 품질과 성능 간의 균형을 맞추는 것이 핵심입니다. 다행히 Steam Deck은 *HELLMART*를 실행할 수 있을 만큼 충분한 성능을 가지고 있지만, 최적의 성능을 위해 몇 가지 설정을 조정해야 합니다. 다음은 몇 가지 중요한 고려 사항입니다.\n\n- **그래픽 해상도**: *HELLMART*는 시각적으로 상당히 높은 사양을 요구할 수 있습니다. 높은 해상도로 게임을 실행하면 Steam Deck의 한계를 넘어서게 되므로, 더 부드러운 게임 플레이를 위해 해상도를 720p로 낮추는 것이 좋습니다. 이 조정은 시각적 품질을 크게 저하시키지 않으면서 그래픽 부하를 상당히 줄여줍니다.\n  \n- **프레임 속도 제한**: 프레임 속도를 30 FPS로 제한하면 Steam Deck이 일관된 성능을 유지하는 데 도움이 될 수 있습니다. 특히 *HELLMART*에서 갑작스러운 공포나 예상치 못한 혼란을 겪을 수 있는 강렬한 순간에 유용합니다.\n\n- **V-Sync**: V-Sync를 활성화하면 Steam Deck과 같은 휴대용 장치에서 흔히 발생하는 화면 찢김 현상을 방지할 수 있습니다. 그러나 프레임 속도가 목표 30 FPS 아래로 떨어지면 V-Sync가 성능에 영향을 미칠 수 있다는 점에 유의하세요.\n\n## Steam Deck용 HELLMART 설정 조정\n\n다음은 Steam Deck에서 *HELLMART*를 실행하기 위한 최적의 설정에 대한 요약입니다. 이러한 조정을 통해 원활하고 즐거운 경험을 할 수 있습니다.\n\n### 1. **그래픽 설정**\n   - **해상도**: 성능 향상을 위해 1280x800 또는 1280x720으로 설정합니다.\n   - **그래픽 품질**: 이 설정을 중간 또는 낮음으로 낮춥니다. 이렇게 하면 텍스처 및 그림자 세부 묘사가 줄어들어 Steam Deck의 하드웨어에서 게임이 더 효율적으로 실행됩니다.\n   - **그림자 품질**: 처리 부하를 줄이기 위해 그림자 품질을 낮춥니다. *HELLMART*의 그림자는 상당히 높은 사양을 요구할 수 있으며, 게임 플레이에 꼭 필요한 것은 아닙니다.\n\n### 2. **컨트롤 옵션**\n   - **Steam Deck 레이아웃**: 선호하는 플레이 스타일에 맞는 사용자 지정 레이아웃을 사용해야 합니다. 일반적인 구성은 이동을 왼쪽 조이스틱에 매핑하고 액션 버튼(예: 상호 작용 및 스프린트)을 쉽게 액세스할 수 있도록 전면 버튼에 매핑하는 것입니다.\n\n### 3. **오디오 설정**\n   - **볼륨 조절**: 갑작스러운 공포에 압도되지 않도록 게임 내 오디오 설정을 조정하는 것이 좋습니다. 음악 볼륨은 낮게 설정하고 음향 효과는 중간으로 설정하여 으스스한 분위기의 균형을 맞추세요.\n\n### 4. **배터리 사용량**\n   - **배터리 절약 모드**: 이동 중에 플레이하는 경우 배터리 절약 모드를 활성화하여 플레이 시간을 늘리는 것을 고려해 보세요. 이렇게 하면 성능이 약간 저하되지만, *HELLMART*는 낮은 설정에서도 여전히 즐겁게 플레이할 수 있습니다.\n\n---\n\n## Steam Deck에서 게임 경험을 극대화하는 방법\n\n설정 조정 외에도 Steam Deck에서 *HELLMART* 게임 경험을 더욱 향상시킬 수 있는 몇 가지 추가적인 방법이 있습니다.\n\n- **그립 사용**: 장시간 게임을 즐기는 경우 그립 부착물을 사용하면 Steam Deck을 훨씬 편안하게 잡을 수 있습니다.\n- **게임 모드**: Steam Deck에서 게임 모드를 사용하고 있는지 확인하세요. 게임 모드는 게임에 맞게 시스템을 최적화하고 게임 플레이 중에 조정해야 하는 설정에 쉽게 액세스할 수 있도록 해줍니다.\n- **외부 디스플레이**: 휴대용 모니터나 도크가 있는 경우 더 몰입감 있는 경험을 위해 더 큰 화면에서 *HELLMART*를 플레이하는 것을 고려해 보세요.\n\n---\n\n## Steam Deck에서 HELLMART 플레이를 위한 커뮤니티 팁\n\n설정 조정도 중요하지만, 때로는 커뮤니티에서 얻는 팁이 가장 좋습니다. 다음은 플레이어 피드백을 기반으로 한 몇 가지 조언입니다.\n\n- **Proton Experimental로 전환**: 일부 플레이어는 Proton Experimental로 전환하여 성능이 향상되었다고 보고했습니다. 이 버전은 Steam Deck에서 특정 게임과의 호환성을 향상시킬 수 있습니다.\n  \n- **오버클럭**: 오버클럭이 *HELLMART*에 필수는 아니지만, 일부 숙련된 Steam Deck 사용자는 더 높은 사양을 요구하는 게임에서 성능을 향상시키기 위해 약간의 오버클럭을 선택합니다. 그러나 이렇게 하면 더 많은 열이 발생할 수 있으므로 온도를 주시해야 합니다.\n\n---\n\n## 결론\n\nSteam Deck에서 *HELLMART*를 플레이하는 것은 공포의 긴장감과 휴대성의 편리함이 결합된 스릴 넘치는 경험이 될 수 있습니다. 성능에 맞게 설정을 최적화하고, 게임의 시각적 요소를 조정하고, 커뮤니티 팁을 고려하면 최소한의 끊김이나 프레임 드롭으로 *HELLMART*를 즐길 수 있습니다. 이러한 조정을 통해 휴대용 장치의 편안함 속에서 끔찍한 슈퍼마켓에서 살아남을 준비를 할 수 있습니다.\n"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1406,
+    "completion_tokens": 1495,
+    "total_tokens": 2901,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 1406,
+      "audio_tokens": 0,
+      "image_tokens": 0
+    },
+    "completion_tokens_details": {
+      "text_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0
+    },
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "input_tokens_details": null
+  }
+}

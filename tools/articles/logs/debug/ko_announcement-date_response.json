@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-20260115212935710475039xTffZ9Zw",
+  "model": "gemini-2.0-flash",
+  "object": "chat.completion",
+  "created": 1768483777,
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "---\ntitle: \"하이테일 발표일: 2018년 공개, Riot Games 인수 및 개발 주요 단계\"\ndescription: \"하이테일 발표의 주요 내용, 2018년 공개, Riot Games 인수, 그리고 많은 기대를 모으는 출시까지의 주요 개발 단계를 알아보세요.\"\nkeywords: [\"하이테일 발표일\", \"하이테일 공개\", \"Riot Games 인수\", \"하이테일 개발 주요 단계\", \"하이테일 뉴스\"]\ncanonical: \"/ko/release/announcement-date\"\ndate: \"2026-01-15\"\nvideo:\n  enabled: true\n  youtubeId: \"_NNh6Dz7YpA\"\n  title: \"Hytale | Creative Gameplay: New Entity Tools\"\n  description: \"Hytale | Creative Gameplay: New Entity Tools\"\n  duration: \"PT7M30S\"\n  uploadDate: \"2026-01-11\"\n---\n\n하이테일은 최근 몇 년 동안 가장 기대되는 게임 중 하나로, 게임 커뮤니티에서 큰 흥분을 불러일으켰습니다. 최초 발표부터 Riot Games의 예상치 못한 인수까지, 하이테일의 여정은 중요한 단계들로 가득 차 있었습니다. 이 글에서는 하이테일 발표일, Riot Games의 참여가 개발에 어떤 영향을 미쳤는지, 그리고 출시를 준비하면서 게임이 어떻게 진행되고 있는지 살펴보겠습니다.\n\n### 하이테일 발표일: 2018년의 중요한 단계\n\n하이테일 공식 발표일은 2018년 12월로, 게임 커뮤니티와 개발자 모두에게 중추적인 순간이었습니다. 프로젝트를 담당하는 Hypixel Studios 팀은 세상에 공개하기 전 몇 년 동안 하이테일을 개발해 왔습니다. 2018년 12월 13일에 공개된 게임의 공식 트레일러는 며칠 만에 수백만 뷰를 기록하며 이 새로운 타이틀에 대한 기대감을 나타냈습니다.\n\n발표가 더욱 흥미로웠던 점은 시기였습니다. 공개는 플레이어들이 마인크래프트의 신선한 대안을 찾고 있을 때 이루어졌으며, 하이테일의 향상된 창작 도구와 매력적인 RPG 요소에 대한 약속은 많은 사람들의 관심을 끌었습니다. 발표는 단순한 시각적 전시가 아니었습니다. 팬들이 샌드박스 게임에서 이전에는 보지 못했던 경험을 제공하겠다는 약속이었습니다.\n\n### 하이테일의 미래에서 Riot Games의 역할\n\n2020년 Hypixel Studios를 Riot Games가 인수한 것은 하이테일에게 게임 체인저였습니다. *리그 오브 레전드*와 *발로란트*의 엄청난 성공으로 가장 잘 알려진 Riot는 막대한 자원과 전문 지식을 제공하여 Hypixel Studios가 하이테일을 새로운 차원으로 끌어올릴 수 있도록 했습니다.\n\nRiot Games와의 파트너십은 특히 게임 디자인, 확장성 및 서버 관리 측면에서 하이테일 개발의 개선으로 이어졌습니다. 게임의 핵심 비전은 그대로 유지되지만, Riot의 영향력은 멀티플레이어 게임플레이와 사용자 생성 콘텐츠를 향상시키기 위한 최첨단 기술 통합을 포함하여 간소화된 개발 프로세스에서 분명히 드러납니다.\n\n### 하이테일의 개발 주요 단계: 발표부터 현재까지\n\n2018년 하이테일 발표일 이후 게임은 새로운 기능과 개선 사항으로 특징지어지는 여러 개발 단계를 거쳤습니다. 주요 단계는 다음과 같습니다.\n\n- **2020년: Riot Games 인수** – 이는 Hypixel Studios가 게임의 범위를 확장하는 데 필요한 리소스를 확보함에 따라 게임 개발의 중요한 전환점이 되었습니다.\n- **2021년: 개발 업데이트** – 개발자들은 하이테일의 절차적 세계 생성 및 전투 시스템에 대한 더 자세한 정보를 포함하여 다양한 티저와 기술 업데이트를 발표했습니다.\n- **2022년: 하이테일의 알파 및 베타 테스트** – 커뮤니티는 일부 지역에서 베타 테스트가 이어지는 폐쇄형 알파 테스트를 통해 게임 메커니즘을 맛볼 수 있었습니다.\n- **2023년: 공식 게임플레이 영상** – 새로운 게임플레이 비디오는 게임의 그래픽, AI 동작, 그리고 마인크래프트 및 기타 샌드박스 게임과 차별화되는 고유한 전투 시스템을 보여주었습니다.\n\n이러한 각 단계는 게임 메커니즘을 개선하고 최종 제품이 플레이어에게 풍부하고 몰입감 넘치는 경험을 제공하는 데 중요한 역할을 했습니다. 하이테일 개발자들은 또한 커뮤니티와 공개적인 소통을 유지하면서 최종 릴리스를 구상하기 위해 플레이어 피드백을 고려했습니다.\n\n### 하이테일 최종 릴리스에서 기대할 수 있는 것\n\n현재 게임은 가까운 미래에 출시될 것으로 예상되지만 정확한 날짜는 아직 불확실합니다. 하이테일의 최종 릴리스에는 모딩 지원, 고급 캐릭터 사용자 정의 및 역동적인 세계 구축 시스템을 포함하여 훨씬 더 많은 기능이 통합될 가능성이 높습니다. 최종 출시에 대한 자세한 내용은 아직 부족하지만 하이테일이 샌드박스 장르에 새로운 차원의 깊이와 창의성을 가져다줄 것이라는 데는 의심의 여지가 없습니다.\n\n팬들은 하이테일의 광대한 세계로 뛰어들 기회를 간절히 기다리고 있습니다. Riot Games의 지원으로 게임이 게임 업계의 주요 플레이어가 될 것이라는 점은 분명합니다.\n\n### 하이테일을 돋보이게 만드는 것은 무엇일까요?\n\n하이테일을 샌드박스 장르에 독특하게 추가하는 몇 가지 기능이 있습니다. 플레이어들이 왜 그렇게 흥분하는지 그 이유는 다음과 같습니다.\n\n- **절차적 세계 생성**: 하이테일의 세계는 역동적으로 생성되어 끝없는 탐험 기회를 제공합니다. 게임의 생물 군계, 도시 및 던전은 절차적으로 생성되어 동일한 세계가 두 개 존재하지 않도록 합니다.\n- **고급 전투 시스템**: 하이테일의 전투는 플레이어가 마인크래프트와 같은 게임에서 익숙한 것보다 더 심오합니다. RPG 요소와 함께 플레이어는 다양한 무기, 주문 및 능력으로 몬스터와 보스를 물리칠 수 있습니다.\n- **창의적인 건축 도구**: 하이테일은 플레이어에게 복잡한 구조를 설계하든, 게임을 수정하든, 자신만의 모험을 만들든, 건축하고 창조할 수 있는 다양한 도구를 제공합니다.\n- **커뮤니티 기능**: 멀티플레이어 서버 및 모딩 지원을 통해 하이테일은 커뮤니티 상호 작용을 염두에 두고 설계되었습니다. 플레이어는 창작물을 공유하고, 함께 플레이하고, 게임에 대한 맞춤형 콘텐츠를 만들 수도 있습니다.\n\n이러한 기능은 많은 흥분을 불러일으켰으며 플레이어는 게임을 직접 경험할 기회를 간절히 기다리고 있습니다.\n\n### 관련 비디오\n\n하이테일이 제공할 내용에 대해 더 잘 이해하려면 게임의 창의적인 게임플레이와 새로운 엔티티 도구를 엿볼 수 있는 다음 비디오를 확인하세요.\n\n이 비디오는 하이테일의 창의적인 게임플레이와 새로운 엔티티 도구에 대한 자세한 안내를 제공하여 게임의 고유한 메커니즘과 기능을 엿볼 수 있게 해줍니다.\n\n<div style=\"position: relative; padding-bottom: 56.25%; height: 0; margin: 2rem 0; border-radius: 0.5rem; overflow: hidden;\">\n  <iframe\n    style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%;\"\n    src=\"https://www.youtube.com/embed/_NNh6Dz7YpA\"\n    title=\"Hytale | Creative Gameplay: New Entity Tools\"\n    frameborder=\"0\"\n    allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\"\n    allowfullscreen\n  ></iframe>\n</div>\n\n하이테일의 건축 측면이 궁금하신 분들을 위해 고딕 성 건축물을 보여주는 이 쇼케이스는 게임의 건축 기능에 대한 맛보기를 제공할 수 있습니다.\n\n이 비디오는 하이테일의 놀라운 고딕 성 건축물을 보여주며 게임이 제공하는 창의적인 잠재력을 보여줍니다.\n\n<div style=\"position: relative; padding-bottom: 56.25%; height: 0; margin: 2rem 0; border-radius: 0.5rem; overflow: hidden;\">\n  <iframe\n    style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%;\"\n    src=\"https://www.youtube.com/embed/SdUbnKnl45w\"\n    title=\"Hytale | Gothic Castle Build Showcase\"\n    frameborder=\"0\"\n    allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\"\n    allowfullscreen\n  ></iframe>\n</div>\n\n### 자주 묻는 질문\n\n**Q: 하이테일 발표일은 언제인가요?**\nA: 하이테일 발표일은 2018년 12월 13일로, 게임 트레일러가 처음 대중에게 공개된 날입니다.\n\n**Q: 하이테일은 발표 후 왜 연기되었나요?**\nA: 하이테일 개발은 게임이 플레이어의 높은 기대를 충족하도록 보장하는 데 시간이 걸렸습니다. Riot Games의 참여로 개발자들은 플레이어 피드백을 통합하고 주요 게임플레이 요소를 개선하기 위해 열심히 노력했습니다.\n\n**Q: 하이테일 공식 출시는 언제 예상할 수 있나요?**\nA: 정확한 날짜는 아직 불확실하지만 하이테일은 곧 출시될 것으로 예상됩니다. Hypixel Studios의 최신 뉴스 및 개발 업데이트를 확인하여 최신 정보를 얻으세요.\n\n**Q: Riot Games의 인수가 하이테일 개발에 어떤 영향을 미치나요?**\nA: Riot Games의 Hypixel Studios 인수는 게임 디자인, 멀티플레이어 시스템 및 커뮤니티 기능에 대한 더 많은 리소스와 전문 지식에 대한 액세스를 제공하여 하이테일 개발을 크게 향상시켰습니다.\n\n하이테일에 대한 자세한 내용은 [Hytale's Beta Release Date](https://hytale-game.wiki/release/beta-release-date/) 및 [When Coming Out](https://hytale-game.wiki/release/when-coming-out/)을 확인하세요.\n\n하이테일이 계속 진화하고 많은 기대를 모으는 출시를 준비하는 동안 계속 지켜봐 주세요!\n"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 2282,
+    "completion_tokens": 2419,
+    "total_tokens": 4701,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 2282,
+      "audio_tokens": 0,
+      "image_tokens": 0
+    },
+    "completion_tokens_details": {
+      "text_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0
+    },
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "input_tokens_details": null
+  }
+}

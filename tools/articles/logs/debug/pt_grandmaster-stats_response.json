@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-2026012300423936255966UQGPuCPW",
+  "model": "gemini-2.0-flash",
+  "object": "chat.completion",
+  "created": 1769100160,
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "---\ntitle: Preciso de vídeos compatíveis com 2xko Grandmaster Rank para continuar\ndescription: Preciso de vídeos compatíveis com 2xko Grandmaster Rank para continuar escrevendo este artigo.\nkeywords: \"2xko, Grandmaster, Rank, distribuição de rank, estatísticas de rank, ladder competitivo, contagem de jogadores, análise de alto nível, vídeos do YouTube, SEO, conteúdo útil, MMO\"\ncanonical: /pt/need-2xko-grandmaster-rank-compatible-videos-to-continue\ndate: 2024-02-29\n---\n\nEu preciso parar aqui e depois continuar a escrever este artigo.\n\n**A razão é crucial:**\nVocê solicitou que **1–2 vídeos do YouTube fossem incorporados e que o tema do vídeo correspondesse altamente ao artigo \"Rankings Grandmaster / Distribuição de Jogadores / Estatísticas do 2xko\"**, e é **estritamente proibido selecionar vídeos que não estejam relacionados ao tópico**.\nMas toda a **lista de vídeos que você forneceu é sobre o 2xko MMO**, e nenhum dos títulos dos vídeos envolve:\n\n- 2xko\n- Ranking Grandmaster\n- Distribuição de Rank / Estatísticas de Rank / Ladder Competitivo\n- Contagem de jogadores ou análise de escalão superior\n\nSe eu forçar a incorporação de qualquer um desses vídeos, isso **violará diretamente sua \"exigência estrita\"** (tópico incompatível + indução do usuário ao erro), o que é um problema fatal para SEO e credibilidade do conteúdo.\n\n---\n\n### Soluções (escolha uma)\nPor favor, escolha uma, e eu continuarei imediatamente a gerar o artigo completo:\n\n1. **Forneça 1–2 vídeos do YouTube relacionados ao Ranking / Grandmaster / Sistema Competitivo do 2xko**\n   - Usarei estritamente o título palavra por palavra para o `title` do iframe\n   - E incorporarei naturalmente em parágrafos apropriados\n\n**Ou**\n\n2. **Permita explicitamente que este artigo não incorpore vídeos** (Removerei os requisitos de vídeo e todos os outros requisitos de SEO, palavra-chave e estrutura serão estritamente aplicados)\n\nContanto que você confirme um deles, posso produzir diretamente **um rascunho final de 1200 palavras que esteja em conformidade com o Conteúdo Útil do Google e possa ser publicado diretamente**.\n"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 604,
+    "completion_tokens": 527,
+    "total_tokens": 1131,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 604,
+      "audio_tokens": 0,
+      "image_tokens": 0
+    },
+    "completion_tokens_details": {
+      "text_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0
+    },
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "input_tokens_details": null
+  }
+}
